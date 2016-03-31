@@ -1,0 +1,6554 @@
+<?xml version='1.0' encoding='UTF-8'?><!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+<source>PubTator</source>
+<date>0/0/0</date>
+<key>PubTator.key</key>
+<document>
+<id>26094</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='1'>
+<infon key="type">Disease</infon>
+<location offset='27' length='10' />
+<text>depression</text>
+<infon key='MESH'>D003866</infon>
+<infon key="score">0.792633056640625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='567' length='6' />
+<text>methyl</text>
+<infon key='CHEBI'>32875</infon>
+<infon key="score">0.554595947265625</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<location offset='79' length='12' />
+<text>hypertensive</text>
+<infon key='MESH'>D006973</infon>
+<infon key="score">0.47882080078125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='129' length='12' />
+<text>hypertensive</text>
+<infon key='MESH'>D006973</infon>
+<infon key="score">0.47882080078125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='287' length='10' />
+<text>depression</text>
+<infon key='MESH'>D003866</infon>
+<infon key="score">0.792633056640625</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='355' length='12' />
+<text>hypertensive</text>
+<infon key='MESH'>D006973</infon>
+<infon key="score">0.47882080078125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='375' length='12' />
+<text>Hypertensive</text>
+<infon key='MESH'>D006973</infon>
+<infon key="score">0.47882080078125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='451' length='10' />
+<text>depression</text>
+<infon key='MESH'>D003866</infon>
+<infon key="score">0.792633056640625</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='542' length='11' />
+<text>depressions</text>
+<infon key='MESH'>D003866</infon>
+<infon key="score">0.792633056640625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>354896</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='9' />
+<text>Lidocaine</text>
+<infon key='MESH'>D008012</infon>
+<infon key="score">0.1153564453125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='18' length='16' />
+<text>cardiac asystole</text>
+<infon key='MESH'>D006331</infon>
+<infon key="score">0.93243408203125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='90' length='9' />
+<text>lidocaine</text>
+<infon key='MESH'>D008012</infon>
+<infon key="score">0.1153564453125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='409' length='9' />
+<text>lidocaine</text>
+<infon key='MESH'>D008012</infon>
+<infon key="score">0.1153564453125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='142' length='10' />
+<text>depression</text>
+<infon key='MESH'>D003866</infon>
+<infon key="score">0.792633056640625</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='265' length='10' />
+<text>conditions</text>
+<infon key='MESH'>D009135</infon>
+<infon key="score">0.36505126953125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='331' length='16' />
+<text>bradyarrhythmias</text>
+<infon key='MESH'>D001919</infon>
+<infon key="score">0.7236328125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>1720453</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='23' length='10' />
+<text>ifosfamide</text>
+<infon key='MESH'>D007069</infon>
+<infon key="score">0.254180908203125</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='34' length='14' />
+<text>renal toxicity</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='83' length='18' />
+<text>mesenchymal tumors</text>
+<infon key='MESH'>D009369</infon>
+<infon key="score">0.31304931640625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='279' length='10' />
+<text>ifosfamide</text>
+<infon key='MESH'>D007069</infon>
+<infon key="score">0.254180908203125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='509' length='10' />
+<text>ifosfamide</text>
+<infon key='MESH'>D007069</infon>
+<infon key="score">0.254180908203125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='541' length='10' />
+<text>ifosfamide</text>
+<infon key='MESH'>D007069</infon>
+<infon key="score">0.254180908203125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='553' length='11' />
+<text>vincristine</text>
+<infon key='MESH'>D014750</infon>
+<infon key="score">0.616546630859375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='570' length='12' />
+<text>dactinomycin</text>
+<infon key='MESH'>D003609</infon>
+<infon key="score">0.84869384765625</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='617' length='9' />
+<text>cisplatin</text>
+<infon key='MESH'>D002945</infon>
+<infon key="score">0.151123046875</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='919' length='10' />
+<text>creatinine</text>
+<infon key='MESH'>D003404</infon>
+<infon key="score">0.87750244140625</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='941' length='9' />
+<text>phosphate</text>
+<infon key='MESH'>D010710</infon>
+<infon key="score">0.4063720703125</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='1404' length='9' />
+<text>phosphate</text>
+<infon key='MESH'>D010710</infon>
+<infon key="score">0.4063720703125</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='1573' length='10' />
+<text>ifosfamide</text>
+<infon key='MESH'>D007069</infon>
+<infon key="score">0.254180908203125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='1768' length='10' />
+<text>ifosfamide</text>
+<infon key='MESH'>D007069</infon>
+<infon key="score">0.254180908203125</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='207' length='18' />
+<text>mesenchymal tumors</text>
+<infon key='MESH'>D009369</infon>
+<infon key="score">0.31304931640625</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='379' length='5' />
+<text>Tumor</text>
+<infon key='MESH'>D009369</infon>
+<infon key="score">0.31304931640625</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='743' length='5' />
+<text>tumor</text>
+<infon key='MESH'>D009369</infon>
+<infon key="score">0.31304931640625</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='867' length='11' />
+<text>proteinuria</text>
+<infon key='MESH'>D011507</infon>
+<infon key="score">0.045166015625</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='880' length='13' />
+<text>aminoaciduria</text>
+<infon key='MESH'>D000608</infon>
+<infon key="score">0.47625732421875</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='1097' length='19' />
+<text>renal abnormalities</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='1264' length='8' />
+<text>toxicity</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='1286' length='18' />
+<text>Fanconi&apos;s syndrome</text>
+<infon key='MESH'>D005199</infon>
+<infon key="score">0.649993896484375</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='1503' length='8' />
+<text>toxicity</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='1666' length='5' />
+<text>tumor</text>
+<infon key='MESH'>D009369</infon>
+<infon key="score">0.31304931640625</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Disease</infon>
+<location offset='1799' length='18' />
+<text>mesenchymal tumors</text>
+<infon key='MESH'>D009369</infon>
+<infon key="score">0.31304931640625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>2224762</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='19' length='32' />
+<text>4&apos;-0-tetrahydropyranyladriamycin</text>
+<infon key='MESH'>C027260</infon>
+<infon key="score">0.377349853515625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='139' length='32' />
+<text>4&apos;-0-tetrahydropyranyladriamycin</text>
+<infon key='MESH'>C027260</infon>
+<infon key="score">0.377349853515625</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='173' length='11' />
+<text>Pirarubicin</text>
+<infon key='MESH'>C027260</infon>
+<infon key="score">0.639984130859375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='912' length='11' />
+<text>Pirarubicin</text>
+<infon key='MESH'>C027260</infon>
+<infon key="score">0.639984130859375</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='1207' length='12' />
+<text>Adriamycinol</text>
+<infon key='MESH'>C010013</infon>
+<infon key="score">0.300750732421875</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='1221' length='11' />
+<text>doxorubicin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='1234' length='13' />
+<text>adriamycinone</text>
+<infon key='MESH'>C010012</infon>
+<infon key="score">0.280670166015625</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='1253' length='29' />
+<text>tetrahydropyranyladriamycinol</text>
+<infon key='MESH'>C027260</infon>
+<infon key="score">0.377349853515625</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='1341' length='11' />
+<text>doxorubicin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='1430' length='11' />
+<text>Pirarubicin</text>
+<infon key='MESH'>C027260</infon>
+<infon key="score">0.639984130859375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='253' length='6' />
+<text>tumors</text>
+<infon key='MESH'>D009369</infon>
+<infon key="score">0.31304931640625</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='380' length='19' />
+<text>hepatic dysfunction</text>
+<infon key='MESH'>D008107</infon>
+<infon key="score">0.297393798828125</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='581' length='5' />
+<text>toxic</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='622' length='16' />
+<text>granulocytopenia</text>
+<infon key='MESH'>D000380</infon>
+<infon key="score">0.1893310546875</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='701' length='5' />
+<text>toxic</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='724' length='16' />
+<text>thrombocytopenia</text>
+<infon key='MESH'>D013921</infon>
+<infon key="score">0.987548828125</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='742' length='6' />
+<text>anemia</text>
+<infon key='MESH'>D000740</infon>
+<infon key="score">0.770050048828125</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='750' length='6' />
+<text>nausea</text>
+<infon key='MESH'>D009325</infon>
+<infon key="score">0.593597412109375</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='763' length='8' />
+<text>alopecia</text>
+<infon key='MESH'>D000505</infon>
+<infon key="score">0.00177001953125</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='773' length='9' />
+<text>phlebitis</text>
+<infon key='MESH'>D010689</infon>
+<infon key="score">0.464630126953125</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='788' length='9' />
+<text>mucositis</text>
+<infon key='MESH'>D052016</infon>
+<infon key="score">0.54266357421875</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='842' length='19' />
+<text>hepatic dysfunction</text>
+<infon key='MESH'>D008107</infon>
+<infon key="score">0.297393798828125</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='1531' length='14' />
+<text>leiomyosarcoma</text>
+<infon key='MESH'>D007890</infon>
+<infon key="score">0.8223876953125</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='1551' length='20' />
+<text>basal cell carcinoma</text>
+<infon key='MESH'>D002280</infon>
+<infon key="score">0.200927734375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>2348231</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='14' />
+<text>Pentoxifylline</text>
+<infon key='MESH'>D010431</infon>
+<infon key="score">0.634429931640625</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='42' length='12' />
+<text>dipyridamole</text>
+<infon key='MESH'>D004176</infon>
+<infon key="score">0.45989990234375</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='63' length='18' />
+<text>coronary hyperemia</text>
+<infon key='MESH'>D003327</infon>
+<infon key="score">0.876220703125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='146' length='12' />
+<text>Dipyridamole</text>
+<infon key='MESH'>D004176</infon>
+<infon key="score">0.45989990234375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='304' length='14' />
+<text>pentoxifylline</text>
+<infon key='MESH'>D010431</infon>
+<infon key="score">0.634429931640625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='332' length='14' />
+<text>methylxanthine</text>
+<infon key='MESH'>C008514</infon>
+<infon key="score">0.605133056640625</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='411' length='14' />
+<text>pentoxifylline</text>
+<infon key='MESH'>D010431</infon>
+<infon key="score">0.634429931640625</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='435' length='12' />
+<text>dipyridamole</text>
+<infon key='MESH'>D004176</infon>
+<infon key="score">0.45989990234375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='486' length='15' />
+<text>methylxanthines</text>
+<infon key='MESH'>C008514</infon>
+<infon key="score">0.80596923828125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='510' length='12' />
+<text>theophylline</text>
+<infon key='MESH'>D013806</infon>
+<infon key="score">0.28948974609375</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='648' length='12' />
+<text>dipyridamole</text>
+<infon key='MESH'>D004176</infon>
+<infon key="score">0.45989990234375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='730' length='14' />
+<text>pentoxifylline</text>
+<infon key='MESH'>D010431</infon>
+<infon key="score">0.634429931640625</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='775' length='12' />
+<text>theophylline</text>
+<infon key='MESH'>D013806</infon>
+<infon key="score">0.28948974609375</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='898' length='12' />
+<text>Dipyridamole</text>
+<infon key='MESH'>D004176</infon>
+<infon key="score">0.45989990234375</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Chemical</infon>
+<location offset='993' length='14' />
+<text>pentoxifylline</text>
+<infon key='MESH'>D010431</infon>
+<infon key="score">0.634429931640625</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Chemical</infon>
+<location offset='1045' length='14' />
+<text>pentoxifylline</text>
+<infon key='MESH'>D010431</infon>
+<infon key="score">0.634429931640625</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Chemical</infon>
+<location offset='1088' length='12' />
+<text>dipyridamole</text>
+<infon key='MESH'>D004176</infon>
+<infon key="score">0.45989990234375</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Chemical</infon>
+<location offset='1181' length='12' />
+<text>theophylline</text>
+<infon key='MESH'>D013806</infon>
+<infon key="score">0.28948974609375</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Chemical</infon>
+<location offset='1231' length='15' />
+<text>pentoxyifylline</text>
+<infon key='MESH'>D010431</infon>
+<infon key="score">0.09393310546875</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Chemical</infon>
+<location offset='1264' length='12' />
+<text>dipyridamole</text>
+<infon key='MESH'>D004176</infon>
+<infon key="score">0.45989990234375</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='252' length='16' />
+<text>vascular disease</text>
+<infon key='MESH'>D014652</infon>
+<infon key="score">0.56109619140625</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='376' length='25' />
+<text>intermittent claudication</text>
+<infon key='MESH'>D007383</infon>
+<infon key="score">0.05517578125</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='456' length='18' />
+<text>coronary hyperemia</text>
+<infon key='MESH'>D003327</infon>
+<infon key="score">0.876220703125</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='1109' length='9' />
+<text>hyperemia</text>
+<infon key='MESH'>D006940</infon>
+<infon key="score">0.494842529296875</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Disease</infon>
+<location offset='1285' length='18' />
+<text>coronary hyperemia</text>
+<infon key='MESH'>D003327</infon>
+<infon key="score">0.876220703125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>2385256</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='47' length='9' />
+<text>magnesium</text>
+<infon key='MESH'>D008274</infon>
+<infon key="score">0.20648193359375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='0' length='17' />
+<text>Myasthenia gravis</text>
+<infon key='MESH'>D009157</infon>
+<infon key="score">0.54998779296875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='32' length='8' />
+<text>weakness</text>
+<infon key='MESH'>D018908</infon>
+<infon key="score">0.8349609375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='192' length='9' />
+<text>magnesium</text>
+<infon key='MESH'>D008274</infon>
+<infon key="score">0.20648193359375</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='245' length='9' />
+<text>magnesium</text>
+<infon key='MESH'>D008274</infon>
+<infon key="score">0.20648193359375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='321' length='9' />
+<text>magnesium</text>
+<infon key='MESH'>D008274</infon>
+<infon key="score">0.20648193359375</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='691' length='13' />
+<text>acetylcholine</text>
+<infon key='MESH'>D000109</infon>
+<infon key="score">0.09033203125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='777' length='9' />
+<text>magnesium</text>
+<infon key='MESH'>D008274</infon>
+<infon key="score">0.20648193359375</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='1024' length='9' />
+<text>magnesium</text>
+<infon key='MESH'>D008274</infon>
+<infon key="score">0.20648193359375</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='119' length='21' />
+<text>neuromuscular disease</text>
+<infon key='MESH'>D009468</infon>
+<infon key="score">0.495574951171875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='221' length='12' />
+<text>preeclampsia</text>
+<infon key='MESH'>D011225</infon>
+<infon key="score">0.945159912109375</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='538' length='22' />
+<text>neuromuscular blockade</text>
+<infon key='MESH'>D009468</infon>
+<infon key="score">0.495574951171875</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='761' length='9' />
+<text>paralysis</text>
+<infon key='MESH'>D010243</infon>
+<infon key="score">0.8681640625</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='844' length='17' />
+<text>myasthenia gravis</text>
+<infon key='MESH'>D009157</infon>
+<infon key="score">0.54998779296875</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='1090' length='26' />
+<text>neuromuscular transmission</text>
+<infon key='MESH'>D020511</infon>
+<infon key="score">0.0860595703125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>2887062</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='70' length='8' />
+<text>estrogen</text>
+<infon key='MESH'>D004967</infon>
+<infon key="score">0.56494140625</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='111' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='91' length='13' />
+<text>prolactinomas</text>
+<infon key='MESH'>D015175</infon>
+<infon key="score">0.165618896484375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='162' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='288' length='8' />
+<text>estrogen</text>
+<infon key='MESH'>D004967</infon>
+<infon key="score">0.56494140625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='359' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='866' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='1524' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='1770' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='179' length='12' />
+<text>prolactinoma</text>
+<infon key='MESH'>D015175</infon>
+<infon key="score">0.165618896484375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='309' length='12' />
+<text>prolactinoma</text>
+<infon key='MESH'>D015175</infon>
+<infon key="score">0.165618896484375</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='613' length='12' />
+<text>prolactinoma</text>
+<infon key='MESH'>D015175</infon>
+<infon key="score">0.165618896484375</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='1095' length='12' />
+<text>prolactinoma</text>
+<infon key='MESH'>D015175</infon>
+<infon key="score">0.165618896484375</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='1409' length='12' />
+<text>prolactinoma</text>
+<infon key='MESH'>D015175</infon>
+<infon key="score">0.165618896484375</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='1555' length='7' />
+<text>adenoma</text>
+<infon key='MESH'>D000236</infon>
+<infon key="score">0.38623046875</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>2894766</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='13' />
+<text>Sulfasalazine</text>
+<infon key='MESH'>D012460</infon>
+<infon key="score">0.68243408203125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='22' length='19' />
+<text>lupus erythematosus</text>
+<infon key='MESH'>D008180</infon>
+<infon key="score">0.630889892578125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='222' length='13' />
+<text>sulfasalazine</text>
+<infon key='MESH'>D012460</infon>
+<infon key="score">0.68243408203125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='299' length='13' />
+<text>sulfasalazine</text>
+<infon key='MESH'>D012460</infon>
+<infon key="score">0.68243408203125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='352' length='15' />
+<text>corticosteroids</text>
+<infon key='MESH'>D000305</infon>
+<infon key="score">0.757171630859375</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='467' length='13' />
+<text>sulfasalazine</text>
+<infon key='MESH'>D012460</infon>
+<infon key="score">0.68243408203125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='619' length='13' />
+<text>sulfasalazine</text>
+<infon key='MESH'>D012460</infon>
+<infon key="score">0.68243408203125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='715' length='13' />
+<text>sulfasalazine</text>
+<infon key='MESH'>D012460</infon>
+<infon key="score">0.68243408203125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='43' length='11' />
+<text>Pneumonitis</text>
+<infon key='MESH'>D011014</infon>
+<infon key="score">0.252471923828125</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='66' length='17' />
+<text>pleural effusions</text>
+<infon key='MESH'>D010996</infon>
+<infon key="score">0.549560546875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='115' length='17' />
+<text>cardiac tamponade</text>
+<infon key='MESH'>D002305</infon>
+<infon key="score">0.0025634765625</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='248' length='26' />
+<text>chronic ulcerative colitis</text>
+<infon key='MESH'>D003093</infon>
+<infon key="score">0.621917724609375</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='518' length='9' />
+<text>serositis</text>
+<infon key='MESH'>D012700</infon>
+<infon key="score">0.295013427734375</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='573' length='25' />
+<text>absence of joint symptoms</text>
+<infon key='MESH'>D004832</infon>
+<infon key="score">0.783203125</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='656' length='26' />
+<text>inflammatory bowel disease</text>
+<infon key='MESH'>D015212</infon>
+<infon key="score">0.993011474609375</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='737' length='14' />
+<text>lupus syndrome</text>
+<infon key='MESH'>C536397</infon>
+<infon key="score">0.250152587890625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>3107448</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='9' />
+<text>Glyburide</text>
+<infon key='MESH'>D005905</infon>
+<infon key="score">0.5902099609375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='18' length='9' />
+<text>hepatitis</text>
+<infon key='MESH'>D056486</infon>
+<infon key="score">0.30682373046875</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='116' length='13' />
+<text>sulfonylureas</text>
+<infon key='MESH'>D013453</infon>
+<infon key="score">0.42254638671875</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='135' length='9' />
+<text>glyburide</text>
+<infon key='MESH'>D005905</infon>
+<infon key="score">0.5902099609375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='166' length='12' />
+<text>sulfonylurea</text>
+<infon key='MESH'>D013453</infon>
+<infon key="score">0.42254638671875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='340' length='9' />
+<text>glyburide</text>
+<infon key='MESH'>D005905</infon>
+<infon key="score">0.5902099609375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='552' length='9' />
+<text>glyburide</text>
+<infon key='MESH'>D005905</infon>
+<infon key="score">0.5902099609375</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='627' length='9' />
+<text>Glyburide</text>
+<infon key='MESH'>D005905</infon>
+<infon key="score">0.5902099609375</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='254' length='17' />
+<text>diabetes mellitus</text>
+<infon key='MESH'>D003920</infon>
+<infon key="score">0.193145751953125</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='291' length='9' />
+<text>hepatitis</text>
+<infon key='MESH'>D056486</infon>
+<infon key="score">0.30682373046875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='394' length='15' />
+<text>viral infection</text>
+<infon key='MESH'>D007239</infon>
+<infon key="score">0.36749267578125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='481' length='22' />
+<text>drug-induced hepatitis</text>
+<infon key='MESH'>D056486</infon>
+<infon key="score">0.30682373046875</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='658' length='9' />
+<text>hepatitis</text>
+<infon key='MESH'>D056486</infon>
+<infon key="score">0.30682373046875</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>3173180</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='49' length='13' />
+<text>metronidazole</text>
+<infon key='MESH'>D008795</infon>
+<infon key="score">0.49261474609375</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='0' length='27' />
+<text>Haemolytic-uraemic syndrome</text>
+<infon key='MESH'>D000743</infon>
+<infon key="score">0.22882080078125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='190' length='13' />
+<text>metronidazole</text>
+<infon key='MESH'>D008795</infon>
+<infon key="score">0.49261474609375</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='361' length='13' />
+<text>metronidazole</text>
+<infon key='MESH'>D008795</infon>
+<infon key="score">0.49261474609375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='635' length='13' />
+<text>metronidazole</text>
+<infon key='MESH'>D008795</infon>
+<infon key="score">0.49261474609375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='141' length='27' />
+<text>haemolytic-uraemic syndrome</text>
+<infon key='MESH'>D000743</infon>
+<infon key="score">0.22882080078125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='399' length='27' />
+<text>haemolytic-uraemic syndrome</text>
+<infon key='MESH'>D000743</infon>
+<infon key="score">0.22882080078125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='575' length='27' />
+<text>haemolytic-uraemic syndrome</text>
+<infon key='MESH'>D000743</infon>
+<infon key="score">0.22882080078125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='681' length='27' />
+<text>haemolytic-uraemic syndrome</text>
+<infon key='MESH'>D000743</infon>
+<infon key="score">0.22882080078125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>3403780</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='11' />
+<text>Paracetamol</text>
+<infon key='MESH'>D000082</infon>
+<infon key="score">0.01702880859375</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Disease</infon>
+<location offset='23' length='4' />
+<text>coma</text>
+<infon key='MESH'>D003128</infon>
+<infon key="score">0.16729736328125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<location offset='29' length='18' />
+<text>metabolic acidosis</text>
+<infon key='MESH'>D000138</infon>
+<infon key="score">0.155792236328125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='49' length='25' />
+<text>renal and hepatic failure</text>
+<infon key='MESH'>D051437</infon>
+<infon key="score">0.420684814453125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='86' length='18' />
+<text>metabolic acidosis</text>
+<infon key='MESH'>D000138</infon>
+<infon key="score">0.155792236328125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='106' length='19' />
+<text>acute renal failure</text>
+<infon key='MESH'>D058186</infon>
+<infon key="score">0.789825439453125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='130' length='15' />
+<text>hepatic failure</text>
+<infon key='MESH'>D017093</infon>
+<infon key="score">0.125823974609375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>3615541</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='43' length='11' />
+<text>amphetamine</text>
+<infon key='MESH'>D000661</infon>
+<infon key="score">0.482452392578125</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='94' length='10' />
+<text>calcitonin</text>
+<infon key='MESH'>D002116</infon>
+<infon key="score">0.7342529296875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='63' length='13' />
+<text>hyperactivity</text>
+<infon key='MESH'>D006948</infon>
+<infon key="score">0.267242431640625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='117' length='10' />
+<text>Calcitonin</text>
+<infon key='MESH'>D002116</infon>
+<infon key="score">0.7342529296875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='193' length='10' />
+<text>calcitonin</text>
+<infon key='MESH'>D002116</infon>
+<infon key="score">0.7342529296875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='313' length='11' />
+<text>amphetamine</text>
+<infon key='MESH'>D000661</infon>
+<infon key="score">0.482452392578125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='456' length='10' />
+<text>calcitonin</text>
+<infon key='MESH'>D002116</infon>
+<infon key="score">0.7342529296875</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='557' length='10' />
+<text>calcitonin</text>
+<infon key='MESH'>D002116</infon>
+<infon key="score">0.7342529296875</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='687' length='10' />
+<text>calcitonin</text>
+<infon key='MESH'>D002116</infon>
+<infon key="score">0.7342529296875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='865' length='10' />
+<text>calcitonin</text>
+<infon key='MESH'>D002116</infon>
+<infon key="score">0.7342529296875</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='890' length='11' />
+<text>amphetamine</text>
+<infon key='MESH'>D000661</infon>
+<infon key="score">0.482452392578125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='557' length='39' />
+<text>calcitonin decreased locomotor activity</text>
+<infon key='MESH'>D006948</infon>
+<infon key="score">0.267242431640625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>3827439</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<location offset='21' length='19' />
+<text>acute renal failure</text>
+<infon key='MESH'>D058186</infon>
+<infon key="score">0.789825439453125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='203' length='14' />
+<text>amphotericin B</text>
+<infon key='MESH'>D000666</infon>
+<infon key="score">0.54302978515625</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='405' length='12' />
+<text>amphotericin</text>
+<infon key='MESH'>D000666</infon>
+<infon key="score">0.54302978515625</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='75' length='21' />
+<text>cryptogenic cirrhosis</text>
+<infon key='OMIM'>215600</infon>
+<infon key="score">0.3720703125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='114' length='14' />
+<text>sporotrichosis</text>
+<infon key='MESH'>D013174</infon>
+<infon key="score">0.573272705078125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='139' length='19' />
+<text>acute renal failure</text>
+<infon key='MESH'>D058186</infon>
+<infon key="score">0.789825439453125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='250' length='31' />
+<text>abruptness of the renal failure</text>
+<infon key='MESH'>D051437</infon>
+<infon key="score">0.420684814453125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='370' length='17' />
+<text>renal dysfunction</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='536' length='19' />
+<text>acute renal failure</text>
+<infon key='MESH'>D058186</infon>
+<infon key="score">0.789825439453125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>4027862</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='11' />
+<text>Desipramine</text>
+<infon key='MESH'>D003891</infon>
+<infon key="score">0.431610107421875</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<location offset='20' length='8' />
+<text>delirium</text>
+<infon key='MESH'>D003693</infon>
+<infon key="score">0.39013671875</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='121' length='11' />
+<text>Desipramine</text>
+<infon key='MESH'>D003891</infon>
+<infon key="score">0.431610107421875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='145' length='8' />
+<text>delirium</text>
+<infon key='MESH'>D003693</infon>
+<infon key="score">0.39013671875</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>6287825</id>
+<passage>
+<infon key="type">title</infon>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='550' length='8' />
+<text>thiamine</text>
+<infon key='MESH'>D013831</infon>
+<infon key="score">0.65570068359375</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='563' length='10' />
+<text>riboflavin</text>
+<infon key='MESH'>D012256</infon>
+<infon key="score">0.71063232421875</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='718' length='9' />
+<text>Isoniazid</text>
+<infon key='MESH'>D007538</infon>
+<infon key="score">0.666168212890625</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='108' length='24' />
+<text>peripheral nerve disease</text>
+<infon key='MESH'>D010523</infon>
+<infon key="score">0.912628173828125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='166' length='19' />
+<text>malignant disorders</text>
+<infon key='MESH'>D016609</infon>
+<infon key="score">0.91168212890625</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='305' length='24' />
+<text>Sensori-motor neuropathy</text>
+<infon key='MESH'>D015417</infon>
+<infon key="score">0.966522216796875</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='368' length='24' />
+<text>Guillain-Barr   syndrome</text>
+<infon key='MESH'>D020275</infon>
+<infon key="score">0.344757080078125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='477' length='16' />
+<text>motor neuropathy</text>
+<infon key='MESH'>D009422</infon>
+<infon key="score">0.98553466796875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='495' length='21' />
+<text>Peripheral neuropathy</text>
+<infon key='MESH'>D010523</infon>
+<infon key="score">0.912628173828125</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='617' length='36' />
+<text>sensory and sensori-motor neuropathy</text>
+<infon key='MESH'>D015417</infon>
+<infon key="score">0.966522216796875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='655' length='17' />
+<text>Diabetes mellitus</text>
+<infon key='MESH'>D003920</infon>
+<infon key="score">0.193145751953125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='696' length='20' />
+<text>autonomic neuropathy</text>
+<infon key='MESH'>D009422</infon>
+<infon key="score">0.98553466796875</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='772' length='10' />
+<text>neuropathy</text>
+<infon key='MESH'>D009422</infon>
+<infon key="score">0.98553466796875</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='784' length='8' />
+<text>Migraine</text>
+<infon key='MESH'>D008881</infon>
+<infon key="score">0.025238037109375</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='828' length='18' />
+<text>cranial neuropathy</text>
+<infon key='MESH'>D003389</infon>
+<infon key="score">0.654388427734375</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='856' length='12' />
+<text>malignancies</text>
+<infon key='MESH'>D016609</infon>
+<infon key="score">0.91168212890625</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='1030' length='10' />
+<text>neuropathy</text>
+<infon key='MESH'>D009422</infon>
+<infon key="score">0.98553466796875</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='1089' length='16' />
+<text>tissue disorders</text>
+<infon key='MESH'>D017695</infon>
+<infon key="score">0.119171142578125</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='1198' length='12' />
+<text>neuropathies</text>
+<infon key='MESH'>D009422</infon>
+<infon key="score">0.98553466796875</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>7352670</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='27' length='20' />
+<text>sodium nitroprusside</text>
+<infon key='MESH'>D009599</infon>
+<infon key="score">0.376617431640625</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='61' length='9' />
+<text>saralasin</text>
+<infon key='MESH'>D012504</infon>
+<infon key="score">0.023651123046875</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='8' length='12' />
+<text>hypertensive</text>
+<infon key='MESH'>D006973</infon>
+<infon key="score">0.47882080078125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='166' length='9' />
+<text>halothane</text>
+<infon key='MESH'>D006221</infon>
+<infon key="score">0.20086669921875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='191' length='20' />
+<text>sodium nitroprusside</text>
+<infon key='MESH'>D009599</infon>
+<infon key="score">0.376617431640625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='213' length='3' />
+<text>SNP</text>
+<infon key='MESH'>D009599</infon>
+<infon key="score">0.684844970703125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='275' length='9' />
+<text>halothane</text>
+<infon key='MESH'>D006221</infon>
+<infon key="score">0.20086669921875</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='330' length='3' />
+<text>SNP</text>
+<infon key='MESH'>D009599</infon>
+<infon key="score">0.684844970703125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='504' length='9' />
+<text>saralasin</text>
+<infon key='MESH'>D012504</infon>
+<infon key="score">0.023651123046875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='609' length='3' />
+<text>SNP</text>
+<infon key='MESH'>D009599</infon>
+<infon key="score">0.684844970703125</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='735' length='3' />
+<text>SNP</text>
+<infon key='MESH'>D009599</infon>
+<infon key="score">0.684844970703125</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='846' length='9' />
+<text>saralasin</text>
+<infon key='MESH'>D012504</infon>
+<infon key="score">0.023651123046875</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='919' length='3' />
+<text>SNP</text>
+<infon key='MESH'>D009599</infon>
+<infon key="score">0.684844970703125</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='1016' length='9' />
+<text>saralasin</text>
+<infon key='MESH'>D012504</infon>
+<infon key="score">0.023651123046875</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Chemical</infon>
+<location offset='1078' length='9' />
+<text>halothane</text>
+<infon key='MESH'>D006221</infon>
+<infon key="score">0.20086669921875</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Chemical</infon>
+<location offset='1146' length='3' />
+<text>SNP</text>
+<infon key='MESH'>D009599</infon>
+<infon key="score">0.684844970703125</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Chemical</infon>
+<location offset='1172' length='3' />
+<text>SNP</text>
+<infon key='MESH'>D009599</infon>
+<infon key="score">0.684844970703125</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Chemical</infon>
+<location offset='1231' length='9' />
+<text>saralasin</text>
+<infon key='MESH'>D012504</infon>
+<infon key="score">0.023651123046875</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Chemical</infon>
+<location offset='1363' length='9' />
+<text>halothane</text>
+<infon key='MESH'>D006221</infon>
+<infon key="score">0.20086669921875</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Chemical</infon>
+<location offset='1377' length='3' />
+<text>SNP</text>
+<infon key='MESH'>D009599</infon>
+<infon key="score">0.684844970703125</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='226' length='11' />
+<text>hypotension</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='1340' length='11' />
+<text>hypotensive</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>7420681</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='27' length='10' />
+<text>tobramycin</text>
+<infon key='MESH'>D014031</infon>
+<infon key="score">0.217864990234375</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='42' length='10' />
+<text>gentamicin</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='125' length='14' />
+<text>aminoglycoside</text>
+<infon key='MESH'>D000617</infon>
+<infon key="score">0.30645751953125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='162' length='18' />
+<text>Gentamicin sulfate</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='185' length='18' />
+<text>tobramycin sulfate</text>
+<infon key='MESH'>D014031</infon>
+<infon key="score">0.217864990234375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='405' length='18' />
+<text>gentamicin sulfate</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='427' length='18' />
+<text>tobramycin sulfate</text>
+<infon key='MESH'>D014031</infon>
+<infon key="score">0.217864990234375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='528' length='14' />
+<text>aminoglycoside</text>
+<infon key='MESH'>D000617</infon>
+<infon key="score">0.30645751953125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='728' length='10' />
+<text>tobramycin</text>
+<infon key='MESH'>D014031</infon>
+<infon key="score">0.217864990234375</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='784' length='10' />
+<text>gentamicin</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='837' length='10' />
+<text>gentamicin</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='920' length='10' />
+<text>tobramycin</text>
+<infon key='MESH'>D014031</infon>
+<infon key="score">0.217864990234375</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='228' length='11' />
+<text>ototoxicity</text>
+<infon key='MESH'>D006311</infon>
+<infon key="score">0.33551025390625</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='551' length='13' />
+<text>renal failure</text>
+<infon key='MESH'>D051437</infon>
+<infon key="score">0.420684814453125</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='669' length='13' />
+<text>renal failure</text>
+<infon key='MESH'>D051437</infon>
+<infon key="score">0.420684814453125</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='816' length='13' />
+<text>renal failure</text>
+<infon key='MESH'>D051437</infon>
+<infon key="score">0.420684814453125</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='868' length='13' />
+<text>renal failure</text>
+<infon key='MESH'>D051437</infon>
+<infon key="score">0.420684814453125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>7468724</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='1'>
+<infon key="type">Disease</infon>
+<location offset='0' length='28' />
+<text>Cardiovascular complications</text>
+<infon key='MESH'>D002318</infon>
+<infon key="score">0.826171875</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<location offset='71' length='13' />
+<text>preterm labor</text>
+<infon key='MESH'>D007752</infon>
+<infon key="score">0.8843994140625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='169' length='11' />
+<text>terbutaline</text>
+<infon key='MESH'>D013726</infon>
+<infon key="score">0.1822509765625</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='93' length='28' />
+<text>cardiovascular complications</text>
+<infon key='MESH'>D002318</infon>
+<infon key="score">0.826171875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='185' length='13' />
+<text>preterm labor</text>
+<infon key='MESH'>D007752</infon>
+<infon key="score">0.8843994140625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>8643971</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='22' length='10' />
+<text>paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='38' length='9' />
+<text>cisplatin</text>
+<infon key='MESH'>D002945</infon>
+<infon key="score">0.151123046875</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='74' length='21' />
+<text>head and neck cancers</text>
+<infon key='MESH'>D006258</infon>
+<infon key="score">0.60321044921875</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='323' length='10' />
+<text>paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='335' length='5' />
+<text>Taxol</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='463' length='10' />
+<text>paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='474' length='9' />
+<text>cisplatin</text>
+<infon key='MESH'>D002945</infon>
+<infon key="score">0.151123046875</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='692' length='10' />
+<text>paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='734' length='9' />
+<text>cisplatin</text>
+<infon key='MESH'>D002945</infon>
+<infon key="score">0.151123046875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='1305' length='10' />
+<text>paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='1376' length='9' />
+<text>cisplatin</text>
+<infon key='MESH'>D002945</infon>
+<infon key="score">0.151123046875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='1437' length='10' />
+<text>paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='1684' length='10' />
+<text>paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='2423' length='10' />
+<text>Paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Chemical</infon>
+<location offset='2434' length='9' />
+<text>cisplatin</text>
+<infon key='MESH'>D002945</infon>
+<infon key="score">0.151123046875</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Chemical</infon>
+<location offset='2615' length='10' />
+<text>paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='156' length='24' />
+<text>head and neck carcinomas</text>
+<infon key='MESH'>D006258</infon>
+<infon key="score">0.60321044921875</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='433' length='20' />
+<text>head and neck cancer</text>
+<infon key='MESH'>D006258</infon>
+<infon key="score">0.60321044921875</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='582' length='14' />
+<text>ovarian cancer</text>
+<infon key='MESH'>D010051</infon>
+<infon key="score">0.959686279296875</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='669' length='8' />
+<text>toxicity</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='850' length='23' />
+<text>head and neck carcinoma</text>
+<infon key='MESH'>D006258</infon>
+<infon key="score">0.60321044921875</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='981' length='5' />
+<text>tumor</text>
+<infon key='MESH'>D009369</infon>
+<infon key="score">0.31304931640625</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='1172' length='8' />
+<text>toxicity</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='1527' length='8' />
+<text>toxicity</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Disease</infon>
+<location offset='2399' length='8' />
+<text>toxicity</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='25'>
+<infon key="type">Disease</infon>
+<location offset='2507' length='20' />
+<text>head and neck cancer</text>
+<infon key='MESH'>D006258</infon>
+<infon key="score">0.60321044921875</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>8649546</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='46' length='11' />
+<text>propranolol</text>
+<infon key='MESH'>D011433</infon>
+<infon key="score">0.84356689453125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<location offset='32' length='10' />
+<text>dyskinesia</text>
+<infon key='MESH'>D004409</infon>
+<infon key="score">0.00927734375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='61' length='19' />
+<text>Parkinson&apos;s disease</text>
+<infon key='MESH'>D010300</infon>
+<infon key="score">0.528411865234375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='190' length='11' />
+<text>propranolol</text>
+<infon key='MESH'>D011433</infon>
+<infon key="score">0.84356689453125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='112' length='19' />
+<text>Parkinson&apos;s disease</text>
+<infon key='MESH'>D010300</infon>
+<infon key="score">0.528411865234375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='133' length='2' />
+<text>PD</text>
+<infon key='MESH'>D010300</infon>
+<infon key="score">0.528411865234375</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='161' length='10' />
+<text>dyskinesia</text>
+<infon key='MESH'>D004409</infon>
+<infon key="score">0.00927734375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='304' length='10' />
+<text>dyskinesia</text>
+<infon key='MESH'>D004409</infon>
+<infon key="score">0.00927734375</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='341' length='29' />
+<text>parkinsonian motor disability</text>
+<infon key='MESH'>D009069</infon>
+<infon key="score">0.017364501953125</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='386' length='18' />
+<text>choreic dyskinesia</text>
+<infon key='MESH'>D004409</infon>
+<infon key="score">0.00927734375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='440' length='8' />
+<text>dystonia</text>
+<infon key='MESH'>D004421</infon>
+<infon key="score">0.625640869140625</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='571' length='18' />
+<text>choreic dyskinesia</text>
+<infon key='MESH'>D004409</infon>
+<infon key="score">0.00927734375</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='593' length='2' />
+<text>PD</text>
+<infon key='MESH'>D010300</infon>
+<infon key="score">0.528411865234375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>9088814</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='30' length='16' />
+<text>prostaglandin E1</text>
+<infon key='MESH'>D000527</infon>
+<infon key="score">0.432220458984375</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='55' length='11' />
+<text>hypotension</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='142' length='16' />
+<text>prostaglandin E1</text>
+<infon key='MESH'>D000527</infon>
+<infon key="score">0.432220458984375</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='160' length='4' />
+<text>PGE1</text>
+<infon key='MESH'>D000527</infon>
+<infon key="score">0.432220458984375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='793' length='4' />
+<text>PGE1</text>
+<infon key='MESH'>D000527</infon>
+<infon key="score">0.432220458984375</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='894' length='6' />
+<text>ketone</text>
+<infon key='CHEBI'>17087</infon>
+<infon key="score">0.04754638671875</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='919' length='13' />
+<text>aceto-acetate</text>
+<infon key='MESH'>C016635</infon>
+<infon key="score">0.80877685546875</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='933' length='17' />
+<text>3-hydroxybutyrate</text>
+<infon key='MESH'>D020155</infon>
+<infon key="score">0.0662841796875</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='1301' length='9' />
+<text>bilirubin</text>
+<infon key='MESH'>D001663</infon>
+<infon key="score">0.08184814453125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='1430' length='4' />
+<text>PGE1</text>
+<infon key='MESH'>D000527</infon>
+<infon key="score">0.432220458984375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='174' length='11' />
+<text>hypotension</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='392' length='11' />
+<text>hypotension</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='509' length='11' />
+<text>hypotension</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='746' length='11' />
+<text>hypotension</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='1206' length='11' />
+<text>hypotension</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='1443' length='11' />
+<text>hypotension</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='1494' length='30' />
+<text>impairment of hepatic function</text>
+<infon key='MESH'>D008107</infon>
+<infon key="score">0.297393798828125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>9249847</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='80' length='9' />
+<text>verapamil</text>
+<infon key='MESH'>D014700</infon>
+<infon key="score">0.93603515625</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<location offset='35' length='38' />
+<text>atrioventricular reentrant tachycardia</text>
+<infon key='MESH'>D013611</infon>
+<infon key="score">0.375335693359375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='130' length='30' />
+<text>Wolff-Parkinson-White syndrome</text>
+<infon key='MESH'>D014927</infon>
+<infon key="score">0.43804931640625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='165' length='33' />
+<text>idiopathic dilated cardiomyopathy</text>
+<infon key='MESH'>C536277</infon>
+<infon key="score">0.44940185546875</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='423' length='9' />
+<text>verapamil</text>
+<infon key='MESH'>D014700</infon>
+<infon key="score">0.93603515625</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='218' length='12' />
+<text>WPW syndrome</text>
+<infon key='MESH'>D014927</infon>
+<infon key="score">0.43804931640625</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='235' length='33' />
+<text>idiopathic dilated cardiomyopathy</text>
+<infon key='MESH'>C536277</infon>
+<infon key="score">0.44940185546875</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='282' length='38' />
+<text>atrioventricular reentrant tachycardia</text>
+<infon key='MESH'>D013611</infon>
+<infon key="score">0.375335693359375</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='322' length='4' />
+<text>AVRT</text>
+<infon key='MESH'>D013611</infon>
+<infon key="score">0.375335693359375</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='470' length='17' />
+<text>accessory pathway</text>
+<infon key='MESH'>D058606</infon>
+<infon key="score">0.292816162109375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='534' length='4' />
+<text>AVRT</text>
+<infon key='MESH'>D013611</infon>
+<infon key="score">0.375335693359375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>9660111</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='9' length='12' />
+<text>trimipramine</text>
+<infon key='MESH'>D014299</infon>
+<infon key="score">0.201995849609375</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='30' length='8' />
+<text>dopamine</text>
+<infon key='MESH'>D004298</infon>
+<infon key="score">0.440948486328125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='82' length='12' />
+<text>Trimipramine</text>
+<infon key='MESH'>D014299</infon>
+<infon key="score">0.201995849609375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='96' length='3' />
+<text>TRI</text>
+<infon key='MESH'>D014299</infon>
+<infon key="score">0.470703125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='175' length='10' />
+<text>imipramine</text>
+<infon key='MESH'>D007099</infon>
+<infon key="score">0.70355224609375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='223' length='13' />
+<text>noradrenaline</text>
+<infon key='MESH'>D009638</infon>
+<infon key="score">0.852569580078125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='241' length='19' />
+<text>5-hydroxytryptamine</text>
+<infon key='MESH'>D012701</infon>
+<infon key="score">0.92108154296875</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='430' length='3' />
+<text>TRI</text>
+<infon key='MESH'>D014299</infon>
+<infon key="score">0.470703125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='597' length='3' />
+<text>TRI</text>
+<infon key='MESH'>D014299</infon>
+<infon key="score">0.470703125</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='717' length='3' />
+<text>TRI</text>
+<infon key='MESH'>D014299</infon>
+<infon key="score">0.470703125</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='816' length='19' />
+<text>5-hydroxytryptophan</text>
+<infon key='MESH'>D006916</infon>
+<infon key="score">0.494476318359375</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='859' length='3' />
+<text>TRI</text>
+<infon key='MESH'>D014299</infon>
+<infon key="score">0.470703125</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='937' length='13' />
+<text>d-amphetamine</text>
+<infon key='MESH'>D003913</infon>
+<infon key="score">0.96044921875</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Chemical</infon>
+<location offset='952' length='10' />
+<text>quinpirole</text>
+<infon key='MESH'>D019257</infon>
+<infon key="score">0.9351806640625</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Chemical</infon>
+<location offset='1005' length='8' />
+<text>dopamine</text>
+<infon key='MESH'>D004298</infon>
+<infon key="score">0.440948486328125</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Chemical</infon>
+<location offset='1062' length='13' />
+<text>d-amphetamine</text>
+<infon key='MESH'>D003913</infon>
+<infon key="score">0.96044921875</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Chemical</infon>
+<location offset='1079' length='11' />
+<text>apomorphine</text>
+<infon key='MESH'>D001058</infon>
+<infon key="score">0.5994873046875</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Chemical</infon>
+<location offset='1114' length='3' />
+<text>TRI</text>
+<infon key='MESH'>D014299</infon>
+<infon key="score">0.470703125</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Chemical</infon>
+<location offset='1168' length='13' />
+<text>phenylephrine</text>
+<infon key='MESH'>D010656</infon>
+<infon key="score">0.221405029296875</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Chemical</infon>
+<location offset='1291' length='9' />
+<text>clonidine</text>
+<infon key='MESH'>D003000</infon>
+<infon key="score">0.8701171875</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Chemical</infon>
+<location offset='1461' length='3' />
+<text>TRI</text>
+<infon key='MESH'>D014299</infon>
+<infon key="score">0.470703125</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Chemical</infon>
+<location offset='1520' length='8' />
+<text>dopamine</text>
+<infon key='MESH'>D004298</infon>
+<infon key="score">0.440948486328125</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='768' length='11' />
+<text>hypothermia</text>
+<infon key='MESH'>D007035</infon>
+<infon key="score">0.8040771484375</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='888' length='37' />
+<text>increases the locomotor hyperactivity</text>
+<infon key='MESH'>D006948</infon>
+<infon key="score">0.267242431640625</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Disease</infon>
+<location offset='1266' length='14' />
+<text>aggressiveness</text>
+<infon key='MESH'>D010554</infon>
+<infon key="score">0.59173583984375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>9698967</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='47' length='11' />
+<text>mepivacaine</text>
+<infon key='MESH'>D008619</infon>
+<infon key="score">0.27020263671875</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='64' length='10' />
+<text>adrenaline</text>
+<infon key='MESH'>D004837</infon>
+<infon key="score">0.1802978515625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='343' length='11' />
+<text>mepivacaine</text>
+<infon key='MESH'>D008619</infon>
+<infon key="score">0.27020263671875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='373' length='10' />
+<text>adrenaline</text>
+<infon key='MESH'>D004837</infon>
+<infon key="score">0.1802978515625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='473' length='9' />
+<text>labetalol</text>
+<infon key='MESH'>D007741</infon>
+<infon key="score">0.903961181640625</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='484' length='10' />
+<text>metoprolol</text>
+<infon key='MESH'>D008790</infon>
+<infon key="score">0.999725341796875</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='499' length='9' />
+<text>midazolam</text>
+<infon key='MESH'>D008874</infon>
+<infon key="score">0.5269775390625</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='872' length='11' />
+<text>mepivacaine</text>
+<infon key='MESH'>D008619</infon>
+<infon key="score">0.27020263671875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='889' length='10' />
+<text>adrenaline</text>
+<infon key='MESH'>D004837</infon>
+<infon key="score">0.1802978515625</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='122' length='19' />
+<text>atrial fibrillation</text>
+<infon key='MESH'>D001281</infon>
+<infon key="score">0.1572265625</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='182' length='21' />
+<text>loss of consciousness</text>
+<infon key='MESH'>D014474</infon>
+<infon key="score">0.163116455078125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='412' length='23' />
+<text>Dupuytren&apos;s contracture</text>
+<infon key='MESH'>D004387</infon>
+<infon key="score">0.3572998046875</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='655' length='19' />
+<text>atrial fibrillation</text>
+<infon key='MESH'>D001281</infon>
+<infon key="score">0.1572265625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>9855119</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='74' length='10' />
+<text>tacrolimus</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='86' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='235' length='10' />
+<text>tacrolimus</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='247' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='873' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='914' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='1029' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='1070' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='1344' length='10' />
+<text>creatinine</text>
+<infon key='MESH'>D003404</infon>
+<infon key="score">0.87750244140625</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='1399' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='1524' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='1610' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='1762' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='808' length='11' />
+<text>nephropathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='879' length='11' />
+<text>nephropathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='920' length='11' />
+<text>nephropathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='1035' length='11' />
+<text>nephropathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='1076' length='11' />
+<text>nephropathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='1225' length='34' />
+<text>focal segmental glomerulosclerosis</text>
+<infon key='MESH'>D005923</infon>
+<infon key="score">0.84454345703125</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='1297' length='21' />
+<text>interstitial fibrosis</text>
+<infon key='MESH'>D005355</infon>
+<infon key="score">0.341888427734375</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='1405' length='11' />
+<text>nephropathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='1530' length='11' />
+<text>nephropathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='1616' length='11' />
+<text>nephropathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='1691' length='10' />
+<text>hyalinosis</text>
+<infon key='MESH'>D057770</infon>
+<infon key="score">0.210357666015625</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Disease</infon>
+<location offset='1768' length='11' />
+<text>nephropathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>9869257</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='87' length='13' />
+<text>acetylcholine</text>
+<infon key='MESH'>D000109</infon>
+<infon key="score">0.09033203125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='185' length='13' />
+<text>acetylcholine</text>
+<infon key='MESH'>D000109</infon>
+<infon key="score">0.09033203125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='469' length='11' />
+<text>scopolamine</text>
+<infon key='MESH'>D012601</infon>
+<infon key="score">0.8726806640625</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='513' length='12' />
+<text>S-(-)-ET-126</text>
+<infon key='MESH'>C098725</infon>
+<infon key="score">0.5350341796875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='407' length='7' />
+<text>amnesia</text>
+<infon key='MESH'>D000647</infon>
+<infon key="score">0.741973876953125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='648' length='7' />
+<text>amnesia</text>
+<infon key='MESH'>D000647</infon>
+<infon key="score">0.741973876953125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='1448' length='28' />
+<text>impaired cognitive processes</text>
+<infon key='MESH'>D003072</infon>
+<infon key="score">0.613006591796875</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>10457883</id>
+<passage>
+<infon key="type">title</infon>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='112' length='10' />
+<text>atracurium</text>
+<infon key='MESH'>D001279</infon>
+<infon key="score">0.803131103515625</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Disease</infon>
+<location offset='217' length='18' />
+<text>respiratory arrest</text>
+<infon key='MESH'>D006323</infon>
+<infon key="score">0.486602783203125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<location offset='265' length='11' />
+<text>bradycardia</text>
+<infon key='MESH'>D001919</infon>
+<infon key="score">0.7236328125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='353' length='22' />
+<text>neuromuscular blockade</text>
+<infon key='MESH'>D009468</infon>
+<infon key="score">0.495574951171875</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>10721819</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='39' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='56' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='78' length='11' />
+<text>tachycardia</text>
+<infon key='MESH'>D013610</infon>
+<infon key="score">0.305389404296875</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='132' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='231' length='8' />
+<text>dopamine</text>
+<infon key='MESH'>D004298</infon>
+<infon key="score">0.440948486328125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='289' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='492' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='520' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='573' length='13' />
+<text>Isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='726' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='805' length='13' />
+<text>Bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='857' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='986' length='11' />
+<text>domperidone</text>
+<infon key='MESH'>D004294</infon>
+<infon key="score">0.821197509765625</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='1069' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Chemical</infon>
+<location offset='1142' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Chemical</infon>
+<location offset='1177' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Chemical</infon>
+<location offset='1335' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Chemical</infon>
+<location offset='1472' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Chemical</infon>
+<location offset='1531' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Chemical</infon>
+<location offset='1803' length='13' />
+<text>bromocriptine</text>
+<infon key='MESH'>D001971</infon>
+<infon key="score">0.95068359375</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Chemical</infon>
+<location offset='1898' length='8' />
+<text>dopamine</text>
+<infon key='MESH'>D004298</infon>
+<infon key="score">0.440948486328125</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='154' length='11' />
+<text>tachycardia</text>
+<infon key='MESH'>D013610</infon>
+<infon key="score">0.305389404296875</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='542' length='11' />
+<text>tachycardia</text>
+<infon key='MESH'>D013610</infon>
+<infon key="score">0.305389404296875</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='619' length='19' />
+<text>cardiac hypertrophy</text>
+<infon key='MESH'>D006332</infon>
+<infon key="score">0.4136962890625</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Disease</infon>
+<location offset='776' length='11' />
+<text>hypotension</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+<annotation id='25'>
+<infon key="type">Disease</infon>
+<location offset='792' length='11' />
+<text>tachycardia</text>
+<infon key='MESH'>D013610</infon>
+<infon key="score">0.305389404296875</infon>
+</annotation>
+<annotation id='26'>
+<infon key="type">Disease</infon>
+<location offset='827' length='11' />
+<text>hypotension</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+<annotation id='27'>
+<infon key="type">Disease</infon>
+<location offset='891' length='11' />
+<text>tachycardia</text>
+<infon key='MESH'>D013610</infon>
+<infon key="score">0.305389404296875</infon>
+</annotation>
+<annotation id='28'>
+<infon key="type">Disease</infon>
+<location offset='931' length='11' />
+<text>bradycardia</text>
+<infon key='MESH'>D001919</infon>
+<infon key="score">0.7236328125</infon>
+</annotation>
+<annotation id='29'>
+<infon key="type">Disease</infon>
+<location offset='1553' length='11' />
+<text>tachycardia</text>
+<infon key='MESH'>D013610</infon>
+<infon key="score">0.305389404296875</infon>
+</annotation>
+<annotation id='30'>
+<infon key="type">Disease</infon>
+<location offset='1568' length='11' />
+<text>bradycardia</text>
+<infon key='MESH'>D001919</infon>
+<infon key="score">0.7236328125</infon>
+</annotation>
+<annotation id='31'>
+<infon key="type">Disease</infon>
+<location offset='1788' length='11' />
+<text>tachycardia</text>
+<infon key='MESH'>D013610</infon>
+<infon key="score">0.305389404296875</infon>
+</annotation>
+<annotation id='32'>
+<infon key="type">Disease</infon>
+<location offset='1856' length='11' />
+<text>bradycardia</text>
+<infon key='MESH'>D001919</infon>
+<infon key="score">0.7236328125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>11147747</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='33' length='20' />
+<text>urinary incontinence</text>
+<infon key='MESH'>D014549</infon>
+<infon key="score">0.55438232421875</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='351' length='11' />
+<text>venlafaxine</text>
+<infon key='MESH'>C047426</infon>
+<infon key="score">0.65771484375</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='478' length='9' />
+<text>serotonin</text>
+<infon key='MESH'>D012701</infon>
+<infon key="score">0.92108154296875</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='508' length='10' />
+<text>paroxetine</text>
+<infon key='MESH'>D017374</infon>
+<infon key="score">0.964630126953125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='523' length='10' />
+<text>sertraline</text>
+<infon key='MESH'>D020280</infon>
+<infon key="score">0.190155029296875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='588' length='11' />
+<text>venlafaxine</text>
+<infon key='MESH'>C047426</infon>
+<infon key="score">0.65771484375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='651' length='17' />
+<text>lithium carbonate</text>
+<infon key='MESH'>D016651</infon>
+<infon key="score">0.785064697265625</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='145' length='20' />
+<text>urinary incontinence</text>
+<infon key='MESH'>D014549</infon>
+<infon key="score">0.55438232421875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='325' length='12' />
+<text>incontinence</text>
+<infon key='MESH'>D014549</infon>
+<infon key="score">0.55438232421875</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='438' length='12' />
+<text>incontinence</text>
+<infon key='MESH'>D014549</infon>
+<infon key="score">0.55438232421875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='732' length='12' />
+<text>incontinence</text>
+<infon key='MESH'>D014549</infon>
+<infon key="score">0.55438232421875</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='774' length='12' />
+<text>incontinence</text>
+<infon key='MESH'>D014549</infon>
+<infon key="score">0.55438232421875</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>11587867</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='56' length='10' />
+<text>vincristin</text>
+<infon key='MESH'>D014750</infon>
+<infon key="score">0.978424072265625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='161' length='11' />
+<text>vincristine</text>
+<infon key='MESH'>D014750</infon>
+<infon key="score">0.616546630859375</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='378' length='11' />
+<text>vincristine</text>
+<infon key='MESH'>D014750</infon>
+<infon key="score">0.616546630859375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='700' length='11' />
+<text>vincristine</text>
+<infon key='MESH'>D014750</infon>
+<infon key="score">0.616546630859375</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='970' length='11' />
+<text>vincristine</text>
+<infon key='MESH'>D014750</infon>
+<infon key="score">0.616546630859375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='222' length='28' />
+<text>acute lymphoblastic leucemia</text>
+<infon key='MESH'>D054198</infon>
+<infon key="score">0.828125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='278' length='22' />
+<text>lymphoblastic lymphoma</text>
+<infon key='MESH'>D054198</infon>
+<infon key="score">0.828125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='461' length='29' />
+<text>sensory and motor dysfunction</text>
+<infon key='MESH'>D015417</infon>
+<infon key="score">0.966522216796875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='505' length='9' />
+<text>paralysis</text>
+<infon key='MESH'>D010243</infon>
+<infon key="score">0.8681640625</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='516' length='51' />
+<text>Histological and immunohistochemical investigations</text>
+<infon key='MESH'>D009370</infon>
+<infon key="score">0.459869384765625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>11897407</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='15' />
+<text>99mTc-glucarate</text>
+<infon key='MESH'>C067171</infon>
+<infon key="score">0.88299560546875</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='33' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='55' length='21' />
+<text>myocardial infarction</text>
+<infon key='MESH'>D009203</infon>
+<infon key="score">0.356658935546875</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='316' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='379' length='13' />
+<text>glucaric acid</text>
+<infon key='MESH'>D005937</infon>
+<infon key="score">0.576141357421875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='452' length='15' />
+<text>99mTc-glucarate</text>
+<infon key='MESH'>C067171</infon>
+<infon key="score">0.88299560546875</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='560' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='691' length='13' />
+<text>isoproterenol</text>
+<infon key='MESH'>D007545</infon>
+<infon key="score">0.183868408203125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='822' length='15' />
+<text>99mTc-glucarate</text>
+<infon key='MESH'>C067171</infon>
+<infon key="score">0.88299560546875</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='168' length='27' />
+<text>acute myocardial infarction</text>
+<infon key='MESH'>D009203</infon>
+<infon key="score">0.356658935546875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='230' length='34' />
+<text>infarction implies artery ligation</text>
+<infon key='MESH'>D007238</infon>
+<infon key="score">0.6925048828125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='582' length='27' />
+<text>acute myocardial infarction</text>
+<infon key='MESH'>D009203</infon>
+<infon key="score">0.356658935546875</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='1196' length='18' />
+<text>cardiac infarction</text>
+<infon key='MESH'>D006331</infon>
+<infon key="score">0.93243408203125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>12584269</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='73' length='14' />
+<text>cyclosporine A</text>
+<infon key='MESH'>D016572</infon>
+<infon key="score">0.380767822265625</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='89' length='10' />
+<text>tacrolimus</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='104' length='9' />
+<text>sirolimus</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.544586181640625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='138' length='9' />
+<text>Sirolimus</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.544586181640625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='149' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='254' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='405' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='676' length='14' />
+<text>cyclosporine A</text>
+<infon key='MESH'>D016572</infon>
+<infon key="score">0.380767822265625</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='692' length='3' />
+<text>CsA</text>
+<infon key='MESH'>D016572</infon>
+<infon key="score">0.038116455078125</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='698' length='10' />
+<text>tacrolimus</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='710' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='720' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='805' length='3' />
+<text>CsA</text>
+<infon key='MESH'>D016572</infon>
+<infon key="score">0.038116455078125</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Chemical</infon>
+<location offset='838' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Chemical</infon>
+<location offset='876' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Chemical</infon>
+<location offset='1174' length='2' />
+<text>Cr</text>
+<infon key='MESH'>D002857</infon>
+<infon key="score">0.921905517578125</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Chemical</infon>
+<location offset='1177' length='4' />
+<text>EDTA</text>
+<infon key='MESH'>D004492</infon>
+<infon key="score">0.1424560546875</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Chemical</infon>
+<location offset='1492' length='3' />
+<text>CsA</text>
+<infon key='MESH'>D016572</infon>
+<infon key="score">0.038116455078125</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Chemical</infon>
+<location offset='1497' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Chemical</infon>
+<location offset='1507' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Chemical</infon>
+<location offset='1586' length='3' />
+<text>CsA</text>
+<infon key='MESH'>D016572</infon>
+<infon key="score">0.038116455078125</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Chemical</infon>
+<location offset='1615' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Chemical</infon>
+<location offset='1624' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Chemical</infon>
+<location offset='1690' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Chemical</infon>
+<location offset='1701' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='25'>
+<infon key="type">Chemical</infon>
+<location offset='1904' length='3' />
+<text>CsA</text>
+<infon key='MESH'>D016572</infon>
+<infon key="score">0.038116455078125</infon>
+</annotation>
+<annotation id='26'>
+<infon key="type">Chemical</infon>
+<location offset='1913' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='27'>
+<infon key="type">Chemical</infon>
+<location offset='2111' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='28'>
+<infon key="type">Chemical</infon>
+<location offset='2122' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='29'>
+<infon key="type">Chemical</infon>
+<location offset='2301' length='3' />
+<text>CsA</text>
+<infon key='MESH'>D016572</infon>
+<infon key="score">0.038116455078125</infon>
+</annotation>
+<annotation id='30'>
+<infon key="type">Chemical</infon>
+<location offset='2310' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='31'>
+<infon key="type">Chemical</infon>
+<location offset='2323' length='5' />
+<text>FK506</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='32'>
+<infon key="type">Chemical</infon>
+<location offset='2334' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='33'>
+<infon key="type">Disease</infon>
+<location offset='1302' length='8' />
+<text>fibrosis</text>
+<infon key='MESH'>D005355</infon>
+<infon key="score">0.341888427734375</infon>
+</annotation>
+<annotation id='34'>
+<infon key="type">Disease</infon>
+<location offset='1324' length='8' />
+<text>fibrosis</text>
+<infon key='MESH'>D005355</infon>
+<infon key="score">0.341888427734375</infon>
+</annotation>
+<annotation id='35'>
+<infon key="type">Disease</infon>
+<location offset='1435' length='8' />
+<text>fibrosis</text>
+<infon key='MESH'>D005355</infon>
+<infon key="score">0.341888427734375</infon>
+</annotation>
+<annotation id='36'>
+<infon key="type">Disease</infon>
+<location offset='1989' length='8' />
+<text>fibrosis</text>
+<infon key='MESH'>D005355</infon>
+<infon key="score">0.341888427734375</infon>
+</annotation>
+<annotation id='37'>
+<infon key="type">Disease</infon>
+<location offset='2180' length='8' />
+<text>fibrosis</text>
+<infon key='MESH'>D005355</infon>
+<infon key="score">0.341888427734375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>12905102</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='16' length='9' />
+<text>clozapine</text>
+<infon key='MESH'>D003024</infon>
+<infon key="score">0.59686279296875</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='135' length='9' />
+<text>clozapine</text>
+<infon key='MESH'>D003024</infon>
+<infon key="score">0.59686279296875</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='291' length='9' />
+<text>clozapine</text>
+<infon key='MESH'>D003024</infon>
+<infon key="score">0.59686279296875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='568' length='9' />
+<text>clozapine</text>
+<infon key='MESH'>D003024</infon>
+<infon key="score">0.59686279296875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='1043' length='9' />
+<text>clozapine</text>
+<infon key='MESH'>D003024</infon>
+<infon key="score">0.59686279296875</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='1139' length='9' />
+<text>clozapine</text>
+<infon key='MESH'>D003024</infon>
+<infon key="score">0.59686279296875</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='119' length='8' />
+<text>delirium</text>
+<infon key='MESH'>D003693</infon>
+<infon key="score">0.39013671875</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='378' length='8' />
+<text>delirium</text>
+<infon key='MESH'>D003693</infon>
+<infon key="score">0.39013671875</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>14513889</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='12' />
+<text>Ketoconazole</text>
+<infon key='MESH'>D007654</infon>
+<infon key="score">0.18951416015625</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='21' length='19' />
+<text>neurologic sequelae</text>
+<infon key='MESH'>D009422</infon>
+<infon key="score">0.98553466796875</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='164' length='12' />
+<text>ketoconazole</text>
+<infon key='MESH'>D007654</infon>
+<infon key="score">0.18951416015625</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='296' length='12' />
+<text>ketoconazole</text>
+<infon key='MESH'>D007654</infon>
+<infon key="score">0.18951416015625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='71' length='23' />
+<text>weakness of extremities</text>
+<infon key='MESH'>D020335</infon>
+<infon key="score">0.1314697265625</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='101' length='9' />
+<text>paralysis</text>
+<infon key='MESH'>D010243</infon>
+<infon key="score">0.8681640625</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='112' length='10' />
+<text>dysarthria</text>
+<infon key='MESH'>D004401</infon>
+<infon key="score">0.8837890625</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='127' length='6' />
+<text>tremor</text>
+<infon key='MESH'>D014202</infon>
+<infon key="score">0.178955078125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='540' length='22' />
+<text>adverse drug reactions</text>
+<infon key='MESH'>D004362</infon>
+<infon key="score">0.2772216796875</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>15188772</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='99' length='11' />
+<text>epinephrine</text>
+<infon key='MESH'>D004837</infon>
+<infon key="score">0.1802978515625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='48' length='21' />
+<text>diastolic dysfunction</text>
+<infon key='MESH'>D008107</infon>
+<infon key="score">0.297393798828125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='111' length='8' />
+<text>overdose</text>
+<infon key='MESH'>D015537</infon>
+<infon key="score">0.44439697265625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='121' length='13' />
+<text>Catecholamine</text>
+<infon key='MESH'>D002395</infon>
+<infon key="score">0.610595703125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='194' length='14' />
+<text>catecholamines</text>
+<infon key='MESH'>D002395</infon>
+<infon key="score">0.487030029296875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='436' length='11' />
+<text>epinephrine</text>
+<infon key='MESH'>D004837</infon>
+<infon key="score">0.1802978515625</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='143' length='14' />
+<text>cardiomyopathy</text>
+<infon key='MESH'>D009202</infon>
+<infon key="score">0.663482666015625</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='291' length='22' />
+<text>myocardial dysfunction</text>
+<infon key='MESH'>D009202</infon>
+<infon key="score">0.663482666015625</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='338' length='8' />
+<text>overdose</text>
+<infon key='MESH'>D015537</infon>
+<infon key="score">0.44439697265625</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='458' length='19' />
+<text>myocardial stunning</text>
+<infon key='MESH'>D017682</infon>
+<infon key="score">0.679351806640625</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='593' length='21' />
+<text>diastolic dysfunction</text>
+<infon key='MESH'>D008107</infon>
+<infon key="score">0.297393798828125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='666' length='19' />
+<text>myocardial necrosis</text>
+<infon key='MESH'>D009202</infon>
+<infon key="score">0.663482666015625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>15602202</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='50' length='12' />
+<text>azithromycin</text>
+<infon key='MESH'>D017963</infon>
+<infon key="score">0.27191162109375</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<location offset='16' length='22' />
+<text>interstitial nephritis</text>
+<infon key='MESH'>D009395</infon>
+<infon key="score">0.094757080078125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='111' length='12' />
+<text>azithromycin</text>
+<infon key='MESH'>D017963</infon>
+<infon key="score">0.27191162109375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='139' length='22' />
+<text>interstitial nephritis</text>
+<infon key='MESH'>D009395</infon>
+<infon key="score">0.094757080078125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='308' length='8' />
+<text>impaired</text>
+<infon key='MESH'>D003072</infon>
+<infon key="score">0.613006591796875</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='366' length='22' />
+<text>interstitial nephritis</text>
+<infon key='MESH'>D009395</infon>
+<infon key="score">0.094757080078125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='458' length='12' />
+<text>renal injury</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>16298782</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='29' />
+<text>Nitro-L-arginine methyl ester</text>
+<infon key='MESH'>D019331</infon>
+<infon key="score">0.76171875</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='61' length='10' />
+<text>gentamicin</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='72' length='11' />
+<text>ototoxicity</text>
+<infon key='MESH'>D006311</infon>
+<infon key="score">0.33551025390625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='89' length='12' />
+<text>nitric oxide</text>
+<infon key='MESH'>D009569</infon>
+<infon key="score">0.04327392578125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='117' length='29' />
+<text>nitro-L-arginine methyl ester</text>
+<infon key='MESH'>D019331</infon>
+<infon key="score">0.76171875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='148' length='6' />
+<text>L-NAME</text>
+<infon key='MESH'>D019331</infon>
+<infon key="score">0.76171875</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='230' length='10' />
+<text>gentamicin</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='289' length='14' />
+<text>Aminoglycoside</text>
+<infon key='MESH'>D000617</infon>
+<infon key="score">0.30645751953125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='555' length='14' />
+<text>aminoglycoside</text>
+<infon key='MESH'>D000617</infon>
+<infon key="score">0.30645751953125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='681' length='10' />
+<text>gentamicin</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='741' length='6' />
+<text>L-NAME</text>
+<infon key='MESH'>D019331</infon>
+<infon key="score">0.76171875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='925' length='6' />
+<text>L-NAME</text>
+<infon key='MESH'>D019331</infon>
+<infon key="score">0.76171875</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='940' length='10' />
+<text>gentamicin</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='192' length='27' />
+<text>high-frequency hearing loss</text>
+<infon key='MESH'>D006316</infon>
+<infon key="score">0.784454345703125</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='386' length='11' />
+<text>ototoxicity</text>
+<infon key='MESH'>D006311</infon>
+<infon key="score">0.33551025390625</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='578' length='26' />
+<text>sensorineural hearing loss</text>
+<infon key='MESH'>D006319</infon>
+<infon key="score">0.0042724609375</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='846' length='12' />
+<text>hearing loss</text>
+<infon key='MESH'>D034381</infon>
+<infon key="score">0.91265869140625</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='959' length='12' />
+<text>hearing loss</text>
+<infon key='MESH'>D034381</infon>
+<infon key="score">0.91265869140625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>16330766</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='30' length='4' />
+<text>pain</text>
+<infon key='MESH'>D010146</infon>
+<infon key="score">0.940155029296875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='76' length='21' />
+<text>central sensitization</text>
+<infon key='MESH'>D002493</infon>
+<infon key="score">0.848236083984375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='679' length='10' />
+<text>gabapentin</text>
+<infon key='MESH'>C040029</infon>
+<infon key="score">0.290069580078125</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='917' length='10' />
+<text>gabapentin</text>
+<infon key='MESH'>C040029</infon>
+<infon key="score">0.290069580078125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='1034' length='9' />
+<text>capsaicin</text>
+<infon key='MESH'>D002211</infon>
+<infon key="score">0.931793212890625</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='1088' length='10' />
+<text>gabapentin</text>
+<infon key='MESH'>C040029</infon>
+<infon key="score">0.290069580078125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='1166' length='10' />
+<text>gabapentin</text>
+<infon key='MESH'>C040029</infon>
+<infon key="score">0.290069580078125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='1303' length='10' />
+<text>gabapentin</text>
+<infon key='MESH'>C040029</infon>
+<infon key="score">0.290069580078125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='1396' length='10' />
+<text>gabapentin</text>
+<infon key='MESH'>C040029</infon>
+<infon key="score">0.290069580078125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='1666' length='10' />
+<text>gabapentin</text>
+<infon key='MESH'>C040029</infon>
+<infon key="score">0.290069580078125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='1846' length='10' />
+<text>gabapentin</text>
+<infon key='MESH'>C040029</infon>
+<infon key="score">0.290069580078125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='139' length='20' />
+<text>somatosensory inputs</text>
+<infon key='MESH'>D020886</infon>
+<infon key="score">0.622711181640625</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='191' length='21' />
+<text>central sensitization</text>
+<infon key='MESH'>D002493</infon>
+<infon key="score">0.848236083984375</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='259' length='4' />
+<text>pain</text>
+<infon key='MESH'>D010146</infon>
+<infon key="score">0.940155029296875</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='300' length='13' />
+<text>tissue injury</text>
+<infon key='MESH'>D017695</infon>
+<infon key="score">0.119171142578125</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='325' length='12' />
+<text>hyperalgesia</text>
+<infon key='MESH'>D006930</infon>
+<infon key="score">0.408203125</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='350' length='12' />
+<text>hyperalgesia</text>
+<infon key='MESH'>D006930</infon>
+<infon key="score">0.408203125</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='411' length='12' />
+<text>hyperalgesia</text>
+<infon key='MESH'>D006930</infon>
+<infon key="score">0.408203125</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='441' length='16' />
+<text>neuropathic pain</text>
+<infon key='MESH'>D009437</infon>
+<infon key="score">0.40997314453125</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='542' length='12' />
+<text>hyperalgesia</text>
+<infon key='MESH'>D006930</infon>
+<infon key="score">0.408203125</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='605' length='21' />
+<text>central sensitization</text>
+<infon key='MESH'>D002493</infon>
+<infon key="score">0.848236083984375</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='711' length='16' />
+<text>neuropathic pain</text>
+<infon key='MESH'>D009437</infon>
+<infon key="score">0.40997314453125</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='799' length='21' />
+<text>central sensitization</text>
+<infon key='MESH'>D002493</infon>
+<infon key="score">0.848236083984375</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='1062' length='12' />
+<text>hyperalgesia</text>
+<infon key='MESH'>D006930</infon>
+<infon key="score">0.408203125</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Disease</infon>
+<location offset='1275' length='21' />
+<text>central sensitization</text>
+<infon key='MESH'>D002493</infon>
+<infon key="score">0.848236083984375</infon>
+</annotation>
+<annotation id='25'>
+<infon key="type">Disease</infon>
+<location offset='1367' length='21' />
+<text>central sensitization</text>
+<infon key='MESH'>D002493</infon>
+<infon key="score">0.848236083984375</infon>
+</annotation>
+<annotation id='26'>
+<infon key="type">Disease</infon>
+<location offset='1462' length='21' />
+<text>central sensitization</text>
+<infon key='MESH'>D002493</infon>
+<infon key="score">0.848236083984375</infon>
+</annotation>
+<annotation id='27'>
+<infon key="type">Disease</infon>
+<location offset='1919' length='21' />
+<text>central sensitization</text>
+<infon key='MESH'>D002493</infon>
+<infon key="score">0.848236083984375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>17175308</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='32' length='9' />
+<text>sirolimus</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.544586181640625</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='0' length='11' />
+<text>Proteinuria</text>
+<infon key='MESH'>D011507</infon>
+<infon key="score">0.045166015625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='74' length='9' />
+<text>Sirolimus</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.544586181640625</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='85' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='197' length='9' />
+<text>sirolimus</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.544586181640625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='389' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='460' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='676' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='775' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='1462' length='10' />
+<text>creatinine</text>
+<infon key='MESH'>D003404</infon>
+<infon key="score">0.87750244140625</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='1536' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='1863' length='10' />
+<text>creatinine</text>
+<infon key='MESH'>D003404</infon>
+<infon key="score">0.87750244140625</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='1997' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='2209' length='3' />
+<text>SRL</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.919647216796875</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='147' length='11' />
+<text>proteinuria</text>
+<infon key='MESH'>D011507</infon>
+<infon key="score">0.045166015625</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='371' length='11' />
+<text>proteinuria</text>
+<infon key='MESH'>D011507</infon>
+<infon key="score">0.045166015625</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='502' length='21' />
+<text>allograft nephropathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='539' length='9' />
+<text>neoplasia</text>
+<infon key='OMIM'>274230</infon>
+<infon key="score">0.77484130859375</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='558' length='16' />
+<text>Kaposi&apos;s sarcoma</text>
+<infon key='MESH'>D012514</infon>
+<infon key="score">0.735107421875</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='576' length='17' />
+<text>Four skin cancers</text>
+<infon key='MESH'>D009369</infon>
+<infon key="score">0.31304931640625</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='599' length='17' />
+<text>intestinal tumors</text>
+<infon key='MESH'>D009369</infon>
+<infon key="score">0.31304931640625</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='649' length='17' />
+<text>virus nephropathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='819' length='11' />
+<text>Proteinuria</text>
+<infon key='MESH'>D011507</infon>
+<infon key="score">0.045166015625</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='981' length='11' />
+<text>proteinuria</text>
+<infon key='MESH'>D011507</infon>
+<infon key="score">0.045166015625</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Disease</infon>
+<location offset='1030' length='11' />
+<text>proteinuria</text>
+<infon key='MESH'>D011507</infon>
+<infon key="score">0.045166015625</infon>
+</annotation>
+<annotation id='25'>
+<infon key="type">Disease</infon>
+<location offset='1062' length='11' />
+<text>proteinuria</text>
+<infon key='MESH'>D011507</infon>
+<infon key="score">0.045166015625</infon>
+</annotation>
+<annotation id='26'>
+<infon key="type">Disease</infon>
+<location offset='1224' length='11' />
+<text>proteinuria</text>
+<infon key='MESH'>D011507</infon>
+<infon key="score">0.045166015625</infon>
+</annotation>
+<annotation id='27'>
+<infon key="type">Disease</infon>
+<location offset='1243' length='9' />
+<text>nephrotic</text>
+<infon key='MESH'>D009404</infon>
+<infon key="score">0.693206787109375</infon>
+</annotation>
+<annotation id='28'>
+<infon key="type">Disease</infon>
+<location offset='1357' length='14' />
+<text>glomerulopathy</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='29'>
+<infon key="type">Disease</infon>
+<location offset='1376' length='22' />
+<text>interstitial nephritis</text>
+<infon key='MESH'>D009395</infon>
+<infon key="score">0.094757080078125</infon>
+</annotation>
+<annotation id='30'>
+<infon key="type">Disease</infon>
+<location offset='1693' length='16' />
+<text>Kaposi&apos;s sarcoma</text>
+<infon key='MESH'>D012514</infon>
+<infon key="score">0.735107421875</infon>
+</annotation>
+<annotation id='31'>
+<infon key="type">Disease</infon>
+<location offset='1957' length='11' />
+<text>proteinuria</text>
+<infon key='MESH'>D011507</infon>
+<infon key="score">0.045166015625</infon>
+</annotation>
+<annotation id='32'>
+<infon key="type">Disease</infon>
+<location offset='2142' length='11' />
+<text>proteinuria</text>
+<infon key='MESH'>D011507</infon>
+<infon key="score">0.045166015625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>17242861</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='51' length='7' />
+<text>seizure</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='445' length='11' />
+<text>pilocarpine</text>
+<infon key='MESH'>D010862</infon>
+<infon key="score">0.79205322265625</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='730' length='11' />
+<text>pilocarpine</text>
+<infon key='MESH'>D010862</infon>
+<infon key="score">0.79205322265625</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='858' length='11' />
+<text>pilocarpine</text>
+<infon key='MESH'>D010862</infon>
+<infon key="score">0.79205322265625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='88' length='7' />
+<text>Seizure</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='146' length='31' />
+<text>Chromosome substitution strains</text>
+<infon key='MESH'>D013180</infon>
+<infon key="score">0.236328125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='179' length='3' />
+<text>CSS</text>
+<infon key='MESH'>D013180</infon>
+<infon key="score">0.236328125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='394' length='7' />
+<text>seizure</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='465' length='8' />
+<text>seizures</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='486' length='22' />
+<text>temporal lobe epilepsy</text>
+<infon key='MESH'>D004833</infon>
+<infon key="score">0.40325927734375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='538' length='3' />
+<text>CSS</text>
+<infon key='MESH'>D013180</infon>
+<infon key="score">0.236328125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='584' length='7' />
+<text>seizure</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='672' length='3' />
+<text>CSS</text>
+<infon key='MESH'>D013180</infon>
+<infon key="score">0.236328125</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='750' length='8' />
+<text>seizures</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='796' length='3' />
+<text>CSS</text>
+<infon key='MESH'>D013180</infon>
+<infon key="score">0.236328125</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='878' length='8' />
+<text>seizures</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='990' length='8' />
+<text>seizures</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='1052' length='3' />
+<text>CSS</text>
+<infon key='MESH'>D013180</infon>
+<infon key="score">0.236328125</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='1244' length='3' />
+<text>CSS</text>
+<infon key='MESH'>D013180</infon>
+<infon key="score">0.236328125</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='1265' length='7' />
+<text>seizure</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='1431' length='22' />
+<text>temporal lobe epilepsy</text>
+<infon key='MESH'>D004833</infon>
+<infon key="score">0.40325927734375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>17466854</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='48' length='18' />
+<text>methylprednisolone</text>
+<infon key='MESH'>D008775</infon>
+<infon key="score">0.40545654296875</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='71' length='10' />
+<text>gentamicin</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='218' length='18' />
+<text>methylprednisolone</text>
+<infon key='MESH'>D008775</infon>
+<infon key="score">0.40545654296875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='241' length='10' />
+<text>gentamicin</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='561' length='10' />
+<text>lignocaine</text>
+<infon key='MESH'>D008012</infon>
+<infon key="score">0.1153564453125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='639' length='18' />
+<text>methylprednisolone</text>
+<infon key='MESH'>D008775</infon>
+<infon key="score">0.40545654296875</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='678' length='10' />
+<text>gentamicin</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='1167' length='18' />
+<text>methylprednisolone</text>
+<infon key='MESH'>D008775</infon>
+<infon key="score">0.40545654296875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='1190' length='10' />
+<text>gentamicin</text>
+<infon key='MESH'>D005839</infon>
+<infon key="score">0.845306396484375</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='887' length='6' />
+<text>nausea</text>
+<infon key='MESH'>D009325</infon>
+<infon key="score">0.593597412109375</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='895' length='8' />
+<text>vomiting</text>
+<infon key='MESH'>D014839</infon>
+<infon key="score">0.381500244140625</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='909' length='8' />
+<text>headache</text>
+<infon key='MESH'>D006261</infon>
+<infon key="score">0.530303955078125</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='1041' length='29' />
+<text>postoperative emetic symptoms</text>
+<infon key='MESH'>D019106</infon>
+<infon key="score">0.278228759765625</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='1072' length='8' />
+<text>headache</text>
+<infon key='MESH'>D006261</infon>
+<infon key="score">0.530303955078125</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='1294' length='6' />
+<text>nausea</text>
+<infon key='MESH'>D009325</infon>
+<infon key="score">0.593597412109375</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='1302' length='8' />
+<text>vomiting</text>
+<infon key='MESH'>D014839</infon>
+<infon key="score">0.381500244140625</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='1316' length='8' />
+<text>headache</text>
+<infon key='MESH'>D006261</infon>
+<infon key="score">0.530303955078125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>17615423</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='78' length='11' />
+<text>simvastatin</text>
+<infon key='MESH'>D019821</infon>
+<infon key="score">0.6756591796875</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='91' length='10' />
+<text>amiodarone</text>
+<infon key='MESH'>D000638</infon>
+<infon key="score">0.387481689453125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='107' length='10' />
+<text>atazanavir</text>
+<infon key='MESH'>C413408</infon>
+<infon key="score">0.55670166015625</infon>
+</annotation>
+<annotation id='28'>
+<infon key="type">Disease</infon>
+<location offset='7' length='14' />
+<text>rhabdomyolysis</text>
+<infon key='MESH'>D012206</infon>
+<infon key="score">0.561065673828125</infon>
+</annotation>
+<annotation id='29'>
+<infon key="type">Disease</infon>
+<location offset='26' length='19' />
+<text>acute renal failure</text>
+<infon key='MESH'>D058186</infon>
+<infon key="score">0.789825439453125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='179' length='11' />
+<text>simvastatin</text>
+<infon key='MESH'>D019821</infon>
+<infon key="score">0.6756591796875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='192' length='10' />
+<text>amiodarone</text>
+<infon key='MESH'>D000638</infon>
+<infon key="score">0.387481689453125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='208' length='10' />
+<text>atazanavir</text>
+<infon key='MESH'>C413408</infon>
+<infon key="score">0.55670166015625</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='524' length='11' />
+<text>simvastatin</text>
+<infon key='MESH'>D019821</infon>
+<infon key="score">0.6756591796875</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='576' length='10' />
+<text>amiodarone</text>
+<infon key='MESH'>D000638</infon>
+<infon key="score">0.387481689453125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='683' length='10' />
+<text>atazanavir</text>
+<infon key='MESH'>C413408</infon>
+<infon key="score">0.55670166015625</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='783' length='8' />
+<text>creatine</text>
+<infon key='MESH'>D003401</infon>
+<infon key="score">0.58380126953125</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='840' length='10' />
+<text>creatinine</text>
+<infon key='MESH'>D003404</infon>
+<infon key="score">0.87750244140625</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='861' length='9' />
+<text>aspartate</text>
+<infon key='MESH'>D001224</infon>
+<infon key="score">0.052154541015625</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='901' length='7' />
+<text>alanine</text>
+<infon key='MESH'>D000409</infon>
+<infon key="score">0.036590576171875</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Chemical</infon>
+<location offset='927' length='11' />
+<text>Simvastatin</text>
+<infon key='MESH'>D019821</infon>
+<infon key="score">0.6756591796875</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Chemical</infon>
+<location offset='940' length='10' />
+<text>amiodarone</text>
+<infon key='MESH'>D000638</infon>
+<infon key="score">0.387481689453125</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Chemical</infon>
+<location offset='1151' length='8' />
+<text>creatine</text>
+<infon key='MESH'>D003401</infon>
+<infon key="score">0.58380126953125</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Chemical</infon>
+<location offset='1195' length='10' />
+<text>creatinine</text>
+<infon key='MESH'>D003404</infon>
+<infon key="score">0.87750244140625</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Chemical</infon>
+<location offset='1432' length='11' />
+<text>simvastatin</text>
+<infon key='MESH'>D019821</infon>
+<infon key="score">0.6756591796875</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Chemical</infon>
+<location offset='1456' length='11' />
+<text>Simvastatin</text>
+<infon key='MESH'>D019821</infon>
+<infon key="score">0.6756591796875</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Chemical</infon>
+<location offset='1494' length='10' />
+<text>Amiodarone</text>
+<infon key='MESH'>D000638</infon>
+<infon key="score">0.387481689453125</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Chemical</infon>
+<location offset='1509' length='10' />
+<text>atazanavir</text>
+<infon key='MESH'>C413408</infon>
+<infon key="score">0.55670166015625</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Chemical</infon>
+<location offset='1598' length='7' />
+<text>statins</text>
+<infon key='MESH'>D019821</infon>
+<infon key="score">0.299102783203125</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Chemical</infon>
+<location offset='1767' length='11' />
+<text>pravastatin</text>
+<infon key='MESH'>D017035</infon>
+<infon key="score">0.211273193359375</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Chemical</infon>
+<location offset='1780' length='11' />
+<text>fluvastatin</text>
+<infon key='MESH'>C065180</infon>
+<infon key="score">0.83416748046875</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Chemical</infon>
+<location offset='1797' length='12' />
+<text>rosuvastatin</text>
+<infon key='MESH'>C422923</infon>
+<infon key="score">0.0115966796875</infon>
+</annotation>
+<annotation id='25'>
+<infon key="type">Chemical</infon>
+<location offset='1854' length='12' />
+<text>atorvastatin</text>
+<infon key='MESH'>C065179</infon>
+<infon key="score">0.467498779296875</infon>
+</annotation>
+<annotation id='26'>
+<infon key="type">Chemical</infon>
+<location offset='1898' length='11' />
+<text>simvastatin</text>
+<infon key='MESH'>D019821</infon>
+<infon key="score">0.6756591796875</infon>
+</annotation>
+<annotation id='27'>
+<infon key="type">Chemical</infon>
+<location offset='1914' length='10' />
+<text>lovastatin</text>
+<infon key='MESH'>D008148</infon>
+<infon key="score">0.25579833984375</infon>
+</annotation>
+<annotation id='30'>
+<infon key="type">Disease</infon>
+<location offset='232' length='14' />
+<text>rhabdomyolysis</text>
+<infon key='MESH'>D012206</infon>
+<infon key="score">0.561065673828125</infon>
+</annotation>
+<annotation id='31'>
+<infon key="type">Disease</infon>
+<location offset='251' length='19' />
+<text>acute renal failure</text>
+<infon key='MESH'>D058186</infon>
+<infon key="score">0.789825439453125</infon>
+</annotation>
+<annotation id='32'>
+<infon key="type">Disease</infon>
+<location offset='330' length='22' />
+<text>immunodeficiency virus</text>
+<infon key='MESH'>D015658</infon>
+<infon key="score">0.72039794921875</infon>
+</annotation>
+<annotation id='33'>
+<infon key="type">Disease</infon>
+<location offset='354' length='19' />
+<text>atrial fibrillation</text>
+<infon key='MESH'>D001281</infon>
+<infon key="score">0.1572265625</infon>
+</annotation>
+<annotation id='34'>
+<infon key="type">Disease</infon>
+<location offset='375' length='23' />
+<text>coronary artery disease</text>
+<infon key='MESH'>D003324</infon>
+<infon key="score">0.2606201171875</infon>
+</annotation>
+<annotation id='35'>
+<infon key="type">Disease</infon>
+<location offset='404' length='14' />
+<text>hyperlipidemia</text>
+<infon key='MESH'>D006949</infon>
+<infon key="score">0.35430908203125</infon>
+</annotation>
+<annotation id='36'>
+<infon key="type">Disease</infon>
+<location offset='446' length='4' />
+<text>pain</text>
+<infon key='MESH'>D010146</infon>
+<infon key="score">0.940155029296875</infon>
+</annotation>
+<annotation id='37'>
+<infon key="type">Disease</infon>
+<location offset='970' length='40' />
+<text>human immunodeficiency virus medications</text>
+<infon key='MESH'>D015658</infon>
+<infon key="score">0.72039794921875</infon>
+</annotation>
+<annotation id='38'>
+<infon key="type">Disease</infon>
+<location offset='1354' length='14' />
+<text>rhabdomyolysis</text>
+<infon key='MESH'>D012206</infon>
+<infon key="score">0.561065673828125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>18023325</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='35' length='10' />
+<text>disulfiram</text>
+<infon key='MESH'>D004221</infon>
+<infon key="score">0.123138427734375</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='6' length='16' />
+<text>vocal fold palsy</text>
+<infon key='MESH'>D014826</infon>
+<infon key="score">0.588165283203125</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='100' length='10' />
+<text>disulfiram</text>
+<infon key='MESH'>D004221</infon>
+<infon key="score">0.123138427734375</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='398' length='10' />
+<text>disulfiram</text>
+<infon key='MESH'>D004221</infon>
+<infon key="score">0.123138427734375</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='1250' length='10' />
+<text>disulfiram</text>
+<infon key='MESH'>D004221</infon>
+<infon key="score">0.123138427734375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='66' length='21' />
+<text>peripheral neuropathy</text>
+<infon key='MESH'>D010523</infon>
+<infon key="score">0.912628173828125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='111' length='8' />
+<text>overdose</text>
+<infon key='MESH'>D015537</infon>
+<infon key="score">0.44439697265625</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='173' length='16' />
+<text>vocal fold palsy</text>
+<infon key='MESH'>D014826</infon>
+<infon key="score">0.588165283203125</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='256' length='13' />
+<text>quadriparesis</text>
+<infon key='MESH'>D011782</infon>
+<infon key="score">0.61431884765625</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='271' length='30' />
+<text>lancinating pain, sensory loss</text>
+<infon key='MESH'>D010146</infon>
+<infon key="score">0.940155029296875</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='621' length='6' />
+<text>ataxia</text>
+<infon key='MESH'>D001259</infon>
+<infon key="score">0.564666748046875</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='701' length='19' />
+<text>sensory dysfunction</text>
+<infon key='MESH'>D008107</infon>
+<infon key="score">0.297393798828125</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='814' length='34' />
+<text>sensorimotor axonal polyneuropathy</text>
+<infon key='MESH'>D001480</infon>
+<infon key="score">0.249725341796875</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='1189' length='40' />
+<text>acute sensorimotor axonal polyneuropathy</text>
+<infon key='MESH'>D020275</infon>
+<infon key="score">0.344757080078125</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>18186898</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='0' length='22' />
+<text>Renal Fanconi syndrome</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='27' length='8' />
+<text>myopathy</text>
+<infon key='MESH'>D009135</infon>
+<infon key="score">0.36505126953125</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='78' length='23' />
+<text>mitochondrial cytopathy</text>
+<infon key='MESH'>D007625</infon>
+<infon key="score">0.530120849609375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='462' length='10' />
+<text>Tacrolimus</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='474' length='3' />
+<text>MMF</text>
+<infon key='CHEBI'>8764</infon>
+<infon key="score">0.21856689453125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='483' length='8' />
+<text>steroids</text>
+<infon key='MESH'>D013256</infon>
+<infon key="score">0.843170166015625</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='525' length='10' />
+<text>Lamivudine</text>
+<infon key='MESH'>D019259</infon>
+<infon key="score">0.066925048828125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='767' length='10' />
+<text>tacrolimus</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='867' length='9' />
+<text>sirolimus</text>
+<infon key='MESH'>D020123</infon>
+<infon key="score">0.544586181640625</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='1253' length='10' />
+<text>tacrolimus</text>
+<infon key='MESH'>D016559</infon>
+<infon key="score">0.933685302734375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='1281' length='10' />
+<text>lamivudine</text>
+<infon key='MESH'>D019259</infon>
+<infon key="score">0.066925048828125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='444' length='16' />
+<text>Wilson&apos;s disease</text>
+<infon key='MESH'>D006527</infon>
+<infon key="score">0.95538330078125</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='565' length='21' />
+<text>hepatitis B infection</text>
+<infon key='MESH'>D056486</infon>
+<infon key="score">0.30682373046875</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='654' length='22' />
+<text>renal Fanconi syndrome</text>
+<infon key='MESH'>D007674</infon>
+<infon key="score">0.369049072265625</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='699' length='8' />
+<text>acidosis</text>
+<infon key='MESH'>D000138</infon>
+<infon key="score">0.155792236328125</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='709' length='16' />
+<text>hypophosphatemia</text>
+<infon key='MESH'>D017674</infon>
+<infon key="score">0.08026123046875</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='727' length='10' />
+<text>glycosuria</text>
+<infon key='MESH'>D006029</infon>
+<infon key="score">0.468048095703125</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='743' length='13' />
+<text>aminoaciduria</text>
+<infon key='MESH'>D000608</infon>
+<infon key="score">0.47625732421875</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='838' length='8' />
+<text>acidosis</text>
+<infon key='MESH'>D000138</infon>
+<infon key="score">0.155792236328125</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='878' length='8' />
+<text>acidosis</text>
+<infon key='MESH'>D000138</infon>
+<infon key="score">0.155792236328125</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='925' length='24' />
+<text>Proximal muscle weakness</text>
+<infon key='MESH'>D018908</infon>
+<infon key="score">0.8349609375</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='986' length='16' />
+<text>Fanconi syndrome</text>
+<infon key='MESH'>D005198</infon>
+<infon key="score">0.62432861328125</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='1015' length='8' />
+<text>myopathy</text>
+<infon key='MESH'>D009135</infon>
+<infon key="score">0.36505126953125</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='1061' length='23' />
+<text>mitochondrial disorders</text>
+<infon key='MESH'>D028361</infon>
+<infon key="score">0.875885009765625</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Disease</infon>
+<location offset='1149' length='19' />
+<text>tubular dysfunction</text>
+<infon key='MESH'>D008107</infon>
+<infon key="score">0.297393798828125</infon>
+</annotation>
+<annotation id='25'>
+<infon key="type">Disease</infon>
+<location offset='1173' length='8' />
+<text>myopathy</text>
+<infon key='MESH'>D009135</infon>
+<infon key="score">0.36505126953125</infon>
+</annotation>
+<annotation id='26'>
+<infon key="type">Disease</infon>
+<location offset='1205' length='25' />
+<text>mitochondrial dysfunction</text>
+<infon key='MESH'>D028361</infon>
+<infon key="score">0.875885009765625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>18439803</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='17' length='25' />
+<text>N-(2-propylpentanoyl)urea</text>
+<infon key='MESH'>C108761</infon>
+<infon key="score">0.4224853515625</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='58' length='10' />
+<text>amino acid</text>
+<infon key='MESH'>D000596</infon>
+<infon key="score">0.991607666015625</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='90' length='11' />
+<text>pilocarpine</text>
+<infon key='MESH'>D010862</infon>
+<infon key="score">0.79205322265625</infon>
+</annotation>
+<annotation id='38'>
+<infon key="type">Disease</infon>
+<location offset='110' length='7' />
+<text>seizure</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='245' length='10' />
+<text>amino acid</text>
+<infon key='MESH'>D000596</infon>
+<infon key="score">0.991607666015625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='275' length='9' />
+<text>glutamate</text>
+<infon key='MESH'>D018698</infon>
+<infon key="score">0.81915283203125</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='286' length='9' />
+<text>aspartate</text>
+<infon key='MESH'>D001224</infon>
+<infon key="score">0.052154541015625</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='297' length='7' />
+<text>glycine</text>
+<infon key='MESH'>D005998</infon>
+<infon key="score">0.746917724609375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='309' length='4' />
+<text>GABA</text>
+<infon key='MESH'>D005680</infon>
+<infon key="score">0.1868896484375</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='318' length='25' />
+<text>N-(2-propylpentanoyl)urea</text>
+<infon key='MESH'>C108761</infon>
+<infon key="score">0.4224853515625</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='388' length='13' />
+<text>valproic acid</text>
+<infon key='MESH'>D014635</infon>
+<infon key="score">0.333282470703125</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='403' length='3' />
+<text>VPA</text>
+<infon key='MESH'>D014635</infon>
+<infon key="score">0.58660888671875</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='409' length='3' />
+<text>VPU</text>
+<infon key='MESH'>C108761</infon>
+<infon key="score">0.975311279296875</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='434' length='3' />
+<text>VPA</text>
+<infon key='MESH'>D014635</infon>
+<infon key="score">0.58660888671875</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Chemical</infon>
+<location offset='524' length='11' />
+<text>pilocarpine</text>
+<infon key='MESH'>D010862</infon>
+<infon key="score">0.79205322265625</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Chemical</infon>
+<location offset='588' length='3' />
+<text>VPA</text>
+<infon key='MESH'>D014635</infon>
+<infon key="score">0.58660888671875</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Chemical</infon>
+<location offset='684' length='11' />
+<text>pilocarpine</text>
+<infon key='MESH'>D010862</infon>
+<infon key="score">0.79205322265625</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Chemical</infon>
+<location offset='742' length='9' />
+<text>glutamate</text>
+<infon key='MESH'>D018698</infon>
+<infon key="score">0.81915283203125</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Chemical</infon>
+<location offset='756' length='9' />
+<text>aspartate</text>
+<infon key='MESH'>D001224</infon>
+<infon key="score">0.052154541015625</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Chemical</infon>
+<location offset='825' length='7' />
+<text>glycine</text>
+<infon key='MESH'>D005998</infon>
+<infon key="score">0.746917724609375</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Chemical</infon>
+<location offset='837' length='4' />
+<text>GABA</text>
+<infon key='MESH'>D005680</infon>
+<infon key="score">0.1868896484375</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Chemical</infon>
+<location offset='894' length='3' />
+<text>VPA</text>
+<infon key='MESH'>D014635</infon>
+<infon key="score">0.58660888671875</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Chemical</infon>
+<location offset='939' length='11' />
+<text>pilocarpine</text>
+<infon key='MESH'>D010862</infon>
+<infon key="score">0.79205322265625</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Chemical</infon>
+<location offset='985' length='9' />
+<text>glutamate</text>
+<infon key='MESH'>D018698</infon>
+<infon key="score">0.81915283203125</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Chemical</infon>
+<location offset='999' length='9' />
+<text>aspartate</text>
+<infon key='MESH'>D001224</infon>
+<infon key="score">0.052154541015625</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Chemical</infon>
+<location offset='1095' length='4' />
+<text>GABA</text>
+<infon key='MESH'>D005680</infon>
+<infon key="score">0.1868896484375</infon>
+</annotation>
+<annotation id='25'>
+<infon key="type">Chemical</infon>
+<location offset='1104' length='7' />
+<text>glycine</text>
+<infon key='MESH'>D005998</infon>
+<infon key="score">0.746917724609375</infon>
+</annotation>
+<annotation id='26'>
+<infon key="type">Chemical</infon>
+<location offset='1149' length='9' />
+<text>glutamate</text>
+<infon key='MESH'>D018698</infon>
+<infon key="score">0.81915283203125</infon>
+</annotation>
+<annotation id='27'>
+<infon key="type">Chemical</infon>
+<location offset='1163' length='9' />
+<text>aspartate</text>
+<infon key='MESH'>D001224</infon>
+<infon key="score">0.052154541015625</infon>
+</annotation>
+<annotation id='28'>
+<infon key="type">Chemical</infon>
+<location offset='1214' length='3' />
+<text>VPA</text>
+<infon key='MESH'>D014635</infon>
+<infon key="score">0.58660888671875</infon>
+</annotation>
+<annotation id='29'>
+<infon key="type">Chemical</infon>
+<location offset='1252' length='11' />
+<text>pilocarpine</text>
+<infon key='MESH'>D010862</infon>
+<infon key="score">0.79205322265625</infon>
+</annotation>
+<annotation id='30'>
+<infon key="type">Chemical</infon>
+<location offset='1329' length='10' />
+<text>amino acid</text>
+<infon key='MESH'>D000596</infon>
+<infon key="score">0.991607666015625</infon>
+</annotation>
+<annotation id='31'>
+<infon key="type">Chemical</infon>
+<location offset='1422' length='9' />
+<text>glutamate</text>
+<infon key='MESH'>D018698</infon>
+<infon key="score">0.81915283203125</infon>
+</annotation>
+<annotation id='32'>
+<infon key="type">Chemical</infon>
+<location offset='1436' length='9' />
+<text>aspartate</text>
+<infon key='MESH'>D001224</infon>
+<infon key="score">0.052154541015625</infon>
+</annotation>
+<annotation id='33'>
+<infon key="type">Chemical</infon>
+<location offset='1463' length='3' />
+<text>VPA</text>
+<infon key='MESH'>D014635</infon>
+<infon key="score">0.58660888671875</infon>
+</annotation>
+<annotation id='34'>
+<infon key="type">Chemical</infon>
+<location offset='1514' length='11' />
+<text>pilocarpine</text>
+<infon key='MESH'>D010862</infon>
+<infon key="score">0.79205322265625</infon>
+</annotation>
+<annotation id='35'>
+<infon key="type">Chemical</infon>
+<location offset='1547' length='9' />
+<text>glutamate</text>
+<infon key='MESH'>D018698</infon>
+<infon key="score">0.81915283203125</infon>
+</annotation>
+<annotation id='36'>
+<infon key="type">Chemical</infon>
+<location offset='1561' length='9' />
+<text>aspartate</text>
+<infon key='MESH'>D001224</infon>
+<infon key="score">0.052154541015625</infon>
+</annotation>
+<annotation id='37'>
+<infon key="type">Chemical</infon>
+<location offset='1648' length='11' />
+<text>pilocarpine</text>
+<infon key='MESH'>D010862</infon>
+<infon key="score">0.79205322265625</infon>
+</annotation>
+<annotation id='39'>
+<infon key="type">Disease</infon>
+<location offset='544' length='7' />
+<text>seizure</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+<annotation id='40'>
+<infon key="type">Disease</infon>
+<location offset='1272' length='7' />
+<text>seizure</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+<annotation id='41'>
+<infon key="type">Disease</infon>
+<location offset='1668' length='7' />
+<text>seizure</text>
+<infon key='MESH'>D012640</infon>
+<infon key="score">0.6068115234375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>18619688</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='10' />
+<text>Adriamycin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='19' length='30' />
+<text>autophagic cardiomyocyte death</text>
+<infon key='MESH'>D003643</infon>
+<infon key="score">0.30023193359375</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='92' length='13' />
+<text>heart failure</text>
+<infon key='MESH'>D006333</infon>
+<infon key="score">0.08343505859375</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='170' length='10' />
+<text>adriamycin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='340' length='10' />
+<text>adriamycin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='430' length='15' />
+<text>3-methyladenine</text>
+<infon key='MESH'>C025946</infon>
+<infon key="score">0.18487548828125</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='447' length='3' />
+<text>3MA</text>
+<infon key='MESH'>C025946</infon>
+<infon key="score">0.463775634765625</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='540' length='10' />
+<text>adriamycin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='660' length='10' />
+<text>adriamycin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='692' length='3' />
+<text>3MA</text>
+<infon key='MESH'>C025946</infon>
+<infon key="score">0.463775634765625</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='701' length='10' />
+<text>adriamycin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='1146' length='3' />
+<text>3MA</text>
+<infon key='MESH'>C025946</infon>
+<infon key="score">0.463775634765625</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='1237' length='10' />
+<text>adriamycin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='1298' length='3' />
+<text>3MA</text>
+<infon key='MESH'>C025946</infon>
+<infon key="score">0.463775634765625</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='1355' length='10' />
+<text>adriamycin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Chemical</infon>
+<location offset='1563' length='10' />
+<text>adriamycin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Chemical</infon>
+<location offset='1658' length='10' />
+<text>adriamycin</text>
+<infon key='MESH'>D004317</infon>
+<infon key="score">0.124267578125</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='145' length='13' />
+<text>heart failure</text>
+<infon key='MESH'>D006333</infon>
+<infon key="score">0.08343505859375</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='315' length='13' />
+<text>heart failure</text>
+<infon key='MESH'>D006333</infon>
+<infon key="score">0.08343505859375</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='406' length='13' />
+<text>heart failure</text>
+<infon key='MESH'>D006333</infon>
+<infon key="score">0.08343505859375</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='501' length='13' />
+<text>heart failure</text>
+<infon key='MESH'>D006333</infon>
+<infon key="score">0.08343505859375</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='1202' length='20' />
+<text>mitochondrial injury</text>
+<infon key='MESH'>D028361</infon>
+<infon key="score">0.875885009765625</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='1530' length='13' />
+<text>heart failure</text>
+<infon key='MESH'>D006333</infon>
+<infon key="score">0.08343505859375</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='1575' length='20' />
+<text>Mitochondrial injury</text>
+<infon key='MESH'>D028361</infon>
+<infon key="score">0.875885009765625</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Disease</infon>
+<location offset='1634' length='13' />
+<text>heart failure</text>
+<infon key='MESH'>D006333</infon>
+<infon key="score">0.08343505859375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>18809400</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='17' />
+<text>Alpha-lipoic acid</text>
+<infon key='MESH'>D008063</infon>
+<infon key="score">0.419952392578125</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='27' length='20' />
+<text>mitochondrial damage</text>
+<infon key='MESH'>D004194</infon>
+<infon key="score">0.16015625</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='52' length='13' />
+<text>neurotoxicity</text>
+<infon key='MESH'>D020258</infon>
+<infon key="score">0.766021728515625</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='82' length='23' />
+<text>chemotherapy neuropathy</text>
+<infon key='MESH'>D009422</infon>
+<infon key="score">0.98553466796875</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='133' length='17' />
+<text>alpha-lipoic acid</text>
+<infon key='MESH'>D008063</infon>
+<infon key="score">0.419952392578125</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='330' length='17' />
+<text>alpha-lipoic acid</text>
+<infon key='MESH'>D008063</infon>
+<infon key="score">0.419952392578125</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='574' length='10' />
+<text>paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='589' length='9' />
+<text>cisplatin</text>
+<infon key='MESH'>D002945</infon>
+<infon key="score">0.151123046875</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='713' length='17' />
+<text>alpha-lipoic acid</text>
+<infon key='MESH'>D008063</infon>
+<infon key="score">0.419952392578125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='872' length='17' />
+<text>alpha-lipoic acid</text>
+<infon key='MESH'>D008063</infon>
+<infon key="score">0.419952392578125</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='925' length='9' />
+<text>cisplatin</text>
+<infon key='MESH'>D002945</infon>
+<infon key="score">0.151123046875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='939' length='10' />
+<text>paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='1068' length='17' />
+<text>Alpha-lipoic acid</text>
+<infon key='MESH'>D008063</infon>
+<infon key="score">0.419952392578125</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='1407' length='10' />
+<text>paclitaxel</text>
+<infon key='MESH'>D017239</infon>
+<infon key="score">0.6123046875</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='1422' length='9' />
+<text>cisplatin</text>
+<infon key='MESH'>D002945</infon>
+<infon key="score">0.151123046875</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='1455' length='17' />
+<text>Alpha-lipoic acid</text>
+<infon key='MESH'>D008063</infon>
+<infon key="score">0.419952392578125</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Chemical</infon>
+<location offset='1637' length='17' />
+<text>alpha-lipoic acid</text>
+<infon key='MESH'>D008063</infon>
+<infon key="score">0.419952392578125</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='199' length='13' />
+<text>neurotoxicity</text>
+<infon key='MESH'>D020258</infon>
+<infon key="score">0.766021728515625</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='217' length='20' />
+<text>mitochondrial damage</text>
+<infon key='MESH'>D004194</infon>
+<infon key="score">0.16015625</infon>
+</annotation>
+<annotation id='19'>
+<infon key="type">Disease</infon>
+<location offset='263' length='5' />
+<text>toxic</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='20'>
+<infon key="type">Disease</infon>
+<location offset='433' length='21' />
+<text>peripheral neuropathy</text>
+<infon key='MESH'>D010523</infon>
+<infon key="score">0.912628173828125</infon>
+</annotation>
+<annotation id='21'>
+<infon key="type">Disease</infon>
+<location offset='528' length='20' />
+<text>dorsal root ganglion</text>
+<infon key='MESH'>D045888</infon>
+<infon key="score">0.741790771484375</infon>
+</annotation>
+<annotation id='22'>
+<infon key="type">Disease</infon>
+<location offset='550' length='3' />
+<text>DRG</text>
+<infon key='MESH'>D045888</infon>
+<infon key="score">0.741790771484375</infon>
+</annotation>
+<annotation id='23'>
+<infon key="type">Disease</infon>
+<location offset='745' length='13' />
+<text>axonal damage</text>
+<infon key='MESH'>D001480</infon>
+<infon key="score">0.249725341796875</infon>
+</annotation>
+<annotation id='24'>
+<infon key="type">Disease</infon>
+<location offset='855' length='5' />
+<text>toxic</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='25'>
+<infon key="type">Disease</infon>
+<location offset='962' length='24' />
+<text>mitochondrial impairment</text>
+<infon key='MESH'>D028361</infon>
+<infon key="score">0.875885009765625</infon>
+</annotation>
+<annotation id='26'>
+<infon key="type">Disease</infon>
+<location offset='1146' length='13' />
+<text>neurotoxicity</text>
+<infon key='MESH'>D020258</infon>
+<infon key="score">0.766021728515625</infon>
+</annotation>
+<annotation id='27'>
+<infon key="type">Disease</infon>
+<location offset='1209' length='8' />
+<text>toxicity</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='28'>
+<infon key="type">Disease</infon>
+<location offset='1365' length='8' />
+<text>toxicity</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+<annotation id='29'>
+<infon key="type">Disease</infon>
+<location offset='1440' length='13' />
+<text>neurotoxicity</text>
+<infon key='MESH'>D020258</infon>
+<infon key="score">0.766021728515625</infon>
+</annotation>
+<annotation id='30'>
+<infon key="type">Disease</infon>
+<location offset='1708' length='8' />
+<text>toxicity</text>
+<infon key='MESH'>D014786</infon>
+<infon key="score">0.841217041015625</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>19657887</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='0' length='10' />
+<text>Disulfiram</text>
+<infon key='MESH'>D004221</infon>
+<infon key="score">0.123138427734375</infon>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='31' length='18' />
+<text>hydrogen cyanamide</text>
+<infon key='MESH'>D003484</infon>
+<infon key="score">0.115692138671875</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='106' length='18' />
+<text>Hydrogen cyanamide</text>
+<infon key='MESH'>D003484</infon>
+<infon key="score">0.115692138671875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='300' length='8' />
+<text>aldehyde</text>
+<infon key='MESH'>D000079</infon>
+<infon key="score">0.54705810546875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<location offset='338' length='12' />
+<text>acetaldehyde</text>
+<infon key='MESH'>D000079</infon>
+<infon key="score">0.7239990234375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<location offset='371' length='7' />
+<text>alcohol</text>
+<infon key='MESH'>D000431</infon>
+<infon key="score">0.888946533203125</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<location offset='441' length='10' />
+<text>disulfiram</text>
+<infon key='MESH'>D004221</infon>
+<infon key="score">0.123138427734375</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<location offset='501' length='18' />
+<text>hydrogen cyanamide</text>
+<infon key='MESH'>D003484</infon>
+<infon key="score">0.115692138671875</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<location offset='595' length='18' />
+<text>hydrogen cyanamide</text>
+<infon key='MESH'>D003484</infon>
+<infon key="score">0.115692138671875</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<location offset='668' length='7' />
+<text>alcohol</text>
+<infon key='MESH'>D000431</infon>
+<infon key="score">0.888946533203125</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<location offset='734' length='7' />
+<text>alcohol</text>
+<infon key='MESH'>D000431</infon>
+<infon key="score">0.888946533203125</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<location offset='1022' length='10' />
+<text>disulfiram</text>
+<infon key='MESH'>D004221</infon>
+<infon key="score">0.123138427734375</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<location offset='1268' length='7' />
+<text>alcohol</text>
+<infon key='MESH'>D000431</infon>
+<infon key="score">0.888946533203125</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='441' length='24' />
+<text>disulfiram-like syndrome</text>
+<infon key='MESH'>C536855</infon>
+<infon key="score">0.480133056640625</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='791' length='11' />
+<text>tachycardia</text>
+<infon key='MESH'>D013610</infon>
+<infon key="score">0.305389404296875</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='808' length='7' />
+<text>dyspnea</text>
+<infon key='MESH'>D004417</infon>
+<infon key="score">0.428680419921875</infon>
+</annotation>
+<annotation id='16'>
+<infon key="type">Disease</infon>
+<location offset='1022' length='24' />
+<text>disulfiram-like syndrome</text>
+<infon key='MESH'>C536855</infon>
+<infon key="score">0.480133056640625</infon>
+</annotation>
+<annotation id='17'>
+<infon key="type">Disease</infon>
+<location offset='1062' length='11' />
+<text>tachycardia</text>
+<infon key='MESH'>D013610</infon>
+<infon key="score">0.305389404296875</infon>
+</annotation>
+<annotation id='18'>
+<infon key="type">Disease</infon>
+<location offset='1088' length='11' />
+<text>hypotension</text>
+<infon key='MESH'>D007022</infon>
+<infon key="score">0.57415771484375</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>19803309</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='1'>
+<infon key="type">Disease</infon>
+<location offset='35' length='5' />
+<text>spasm</text>
+<infon key='MESH'>D013035</infon>
+<infon key="score">0.971160888671875</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<location offset='83' length='8' />
+<text>myotonia</text>
+<infon key='MESH'>D009222</infon>
+<infon key="score">0.112457275390625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='292' length='13' />
+<text>suxamethonium</text>
+<infon key='MESH'>D013390</infon>
+<infon key="score">0.97674560546875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<location offset='136' length='8' />
+<text>myotonia</text>
+<infon key='MESH'>D009222</infon>
+<infon key="score">0.112457275390625</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='245' length='5' />
+<text>spasm</text>
+<infon key='MESH'>D013035</infon>
+<infon key="score">0.971160888671875</infon>
+</annotation>
+</passage>
+</document>
+<document>
+<id>21029050</id>
+<passage>
+<infon key="type">title</infon>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<location offset='76' length='15' />
+<text>succinylcholine</text>
+<infon key='MESH'>D013390</infon>
+<infon key="score">0.97674560546875</infon>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<location offset='64' length='5' />
+<text>apnea</text>
+<infon key='MESH'>D001049</infon>
+<infon key="score">0.693359375</infon>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<location offset='96' length='25' />
+<text>electroconvulsive therapy</text>
+<infon key='MESH'>D016609</infon>
+<infon key="score">0.91168212890625</infon>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<location offset='201' length='15' />
+<text>succinylcholine</text>
+<infon key='MESH'>D013390</infon>
+<infon key="score">0.97674560546875</infon>
+</annotation>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<location offset='600' length='15' />
+<text>succinylcholine</text>
+<infon key='MESH'>D013390</infon>
+<infon key="score">0.97674560546875</infon>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<location offset='1391' length='15' />
+<text>succinylcholine</text>
+<infon key='MESH'>D013390</infon>
+<infon key="score">0.97674560546875</infon>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<location offset='155' length='25' />
+<text>electroconvulsive therapy</text>
+<infon key='MESH'>D016609</infon>
+<infon key="score">0.91168212890625</infon>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<location offset='182' length='3' />
+<text>ECT</text>
+<infon key='MESH'>D016609</infon>
+<infon key="score">0.91168212890625</infon>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<location offset='622' length='3' />
+<text>ECT</text>
+<infon key='MESH'>D016609</infon>
+<infon key="score">0.91168212890625</infon>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<location offset='722' length='3' />
+<text>ECT</text>
+<infon key='MESH'>D016609</infon>
+<infon key="score">0.91168212890625</infon>
+</annotation>
+<annotation id='10'>
+<infon key="type">Disease</infon>
+<location offset='847' length='5' />
+<text>apnea</text>
+<infon key='MESH'>D001049</infon>
+<infon key="score">0.693359375</infon>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<location offset='960' length='5' />
+<text>apnea</text>
+<infon key='MESH'>D001049</infon>
+<infon key="score">0.693359375</infon>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<location offset='1138' length='5' />
+<text>apnea</text>
+<infon key='MESH'>D001049</infon>
+<infon key="score">0.693359375</infon>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<location offset='1209' length='8' />
+<text>distress</text>
+<infon key='MESH'>D005316</infon>
+<infon key="score">0.3011474609375</infon>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<location offset='1500' length='5' />
+<text>apnea</text>
+<infon key='MESH'>D001049</infon>
+<infon key="score">0.693359375</infon>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<location offset='1572' length='3' />
+<text>ECT</text>
+<infon key='MESH'>D016609</infon>
+<infon key="score">0.91168212890625</infon>
+</annotation>
+</passage>
+</document>
+</collection>
+
