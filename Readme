@@ -1,0 +1,39 @@
+There are some descriptions of directories:
+(Program language: Java;	Main programmer: Ming-Yu Chien;		Contact: imwilly37@iir.csie.ncku.edu.tw)
+(I recommended using "Eclipse" as IDE because I used this IDE in this case)
+	
+BC5CDR_Evaluation: 	An evaluation tool provided by BioCreativeV track 3
+			Calculate the precision/recall/f-score between gold standard and your result(in Eval format)
+			Understand more about this tool, you can read the "readme.txt" file in this directory
+
+bin:			All java classes
+
+CDR_Data:		The entire CDR (also called CID) dataset provided by BioCreativeV track 3
+			More details in website(http://www.biocreative.org/tasks/biocreative-v/track-3-cdr/)
+
+data:			Some necessary data generated or used by my program
+			More details in documents ("doc" directory)
+
+DNorm:			A disease named entity recognition (Disease NER) tool
+			Understand more about this tool, you can read the "README_BC5CDR.txt" file in this directory
+
+doc:			Documents of source codes or usage
+
+lib:			All external libraries
+			(Shoud be included in java build path while compiling these codes)
+
+model:			SVM models and relative objects
+
+src:			All source code
+			More details in documents ("doc" directory)
+
+tmChem:			A chemical named entity recognition (Chemical NER) tool
+			Understand more about this tool, you can read the "README_BC5CDR.txt" file in this directory
+
+triggerWords:		All file about trigger words
+			There are same trigger word list in these files but different format (Use "triggerWords.txt" in our program)
+
+
+
+
+
