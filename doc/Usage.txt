@@ -1,0 +1,53 @@
+Introduction:
+The main purpose of this program is to extract chemical-disease relations in the Medline (abstracts of biomedical literature)
+See the data, background and tasks of chemical-disease relations (CDR) in the BioCreativeV track 3 website (http://www.biocreative.org/tasks/biocreative-v/track-3-cdr/)
+
+Usage:
+There are two main defferent ways to use our program 
+
+Case 1: If you have entire dataset(training and testing) with named entity recognition result(NER result), you want to evaluate the result of this system (precion/recall/f-score).
+	You should use the 1st method.
+
+Case 2: If you have single abstract or entire dataset without named entity recognition result(NER result), you want to extract potential chemical-disease relations.
+	You should use the 2nd method.
+
+First method:
+	Workflow of 1st method:
+	a. Translate data(train set and test set) from abstract-level to sentence-level
+		Because of feature generation of our method, we should use relation in sentences not in abstracts
+		We can use the program (main function) in "AbstractToSentences" class (in "preprocess" package)
+	b. Evaluate result in sentence-level
+		Second, we will generate a feature vector of each sentence and evaluate the result in sentence-level
+		We can use the program (main function) in "Demo" class (in "extractCDRfeatures.relation" package)
+		The default traning set is "./CDR_Data/CDR_Data/CDR.Corpus/CDR_sentences.txt", which contains all sentences in both training set and development set provided by BioCreativeV track 3
+		The default testing set is "./CDR_Data/CDR_Data/CDR.Corpus/CDR_TestSet_Sentences.PubTator.txt", which contains all sentences in testing set provided by BioCreative V track3
+		We will get an output file in Eval format and precision/recall/f-score in sentence-level
+	c. Evaluate result in abstract-level
+		Finally, we will get an output file in Eval format (default output file path is "./CDR_Data/CDR_Data/CDR.Corpus/CDR_TestSet_CoTri.Eval.txt")
+		You can utilize the "BC5CDR_Evaluation" tool (in the "BC5CDR_Evaluation" dir) (more details in readme.txt in "BC5CDR_Evaluation" dir)
+		For example,
+		Enter the command line and change current directory to "BC5CDR_Evaluation"
+		Enter this command: "./eval_relation.sh PubTator data/gold/CDR_sample.gold.PubTator ../CDR_Data/CDR_Data/CDR.Corpus/CDR_TestSet_CoTri.Eval.txt"
+		We will get precision/recall/f-score in abstract-level
+
+Second method:
+	Workflow of 2nd method:
+	a. Turn on the Poll version of named entity recognition(NER) tools included "DNorm" and "tmChem"
+		i. 	Enter the command line and change current directory to "DNorm"
+			Enter this command: "./PollDNorm.sh config/banner_BC5CDR_UMLS2013AA_SAMPLE.xml data/CTD_diseases-2015-06-04.tsv output/simmatrix_BC5CDR_e4_TRAINDEV.bin ./Ab3P-v1.5 ./PollTemp ./PollInput ./PollOutput"
+		ii.	Enter the command line and change current directory to "tmChem"
+			Enter this command: "./Poll.sh config/banner_JOINT.xml data/dict.txt ./Ab3P-v1.5 ./PollTemp ./PollInput ./PollOutput"
+		Notice that this two poll version totally requires about 20GB memeroy.
+	b. Annotate single abstract or entire dataset
+		The last step, we use the program (main function) in "CDRServlet" class (in "org.biocreative.cdr.web" package)
+		As the sample in main function, "annotate" function for annotating a single abstract and "runDataset" function for annotating an entire dataset
+
+Contact:
+	Main programmer: Ming-Yu Chien
+	E-mail: imwilly37@iir.csie.ncku.edu.tw
+
+Relative websites:
+	BioCreativeV track 3: "http://www.biocreative.org/tasks/biocreative-v/track-3-cdr/"
+	DNorm: "http://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/#DNorm"
+	tmChem: "http://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/#tmChem"
+	

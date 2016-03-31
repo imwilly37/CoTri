@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="dnorm" basedir="." default="build.project">
+
+    <!-- project settings -->
+    <property name="src.dir" value="${basedir}/src"/>
+    <property name="temp.dir" value="${basedir}/temp"/>
+    <property name="libs.dir" value="${basedir}/libs"/>
+    <property name="classes.dir" value="${temp.dir}/classes"/>
+    <property name="dnorm.jar" value="dnorm.jar"/>
+
+    <!-- javac properties -->
+    <property name="javacFailOnError" value="true"/>
+    <property name="javacVerbose" value="false"/>
+    <property name="javacSource" value="1.6"/>
+    <property name="javacTarget" value="1.6"/>
+
+    <!-- project classpath -->
+    <path id="dnorm.classpath">
+        <fileset dir="${libs.dir}">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+    <!-- compile source files -->
+    <target name="compile">
+        <mkdir dir="${classes.dir}"/>
+        <javac failonerror="${javacFailOnError}" verbose="${javacVerbose}" debug="${javacDebugInfo}" source="${javacSource}" target="${javacTarget}" destdir="${classes.dir}" encoding="UTF8">
+            <classpath refid="dnorm.classpath"/>
+            <src path="${src.dir}"/>
+        </javac>
+    </target>
+
+    <!-- jar project -->
+    <target name="jar">
+        <jar destfile="${temp.dir}/${dnorm.jar}">
+            <fileset dir="${classes.dir}">
+                <include name="**/*.class"/>
+            </fileset>
+            <fileset dir="${src.dir}">
+                <include name="*.properties"/>
+            </fileset>
+            <!--<fileset dir="${basedir}/data"/>-->
+        </jar>
+    </target>
+
+    <!-- build project -->
+    <target name="build.project">
+        <echo message="Start DNorm project build"/>
+
+        <!-- clean any previous build -->
+        <delete dir="${temp.dir}"/>
+        <delete file="${libs.dir}/${dnorm.jar}"/>
+
+        <!-- compile project -->
+        <antcall target="compile"/>
+
+        <!-- jar project -->
+        <antcall target="jar"/>
+        
+        <!-- copy dnorm.jar to libs -->
+        <copy file="${temp.dir}/${dnorm.jar}" todir="${libs.dir}"/>
+        
+        <!-- clean up -->
+        <delete dir="${temp.dir}"/>
+
+        <echo message="End DNorm project build"/>
+    </target>
+
+</project>
+
